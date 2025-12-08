@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DOG one-word domains still available to buy.
 
-This dataset contains 4,187 .DOG one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,376 .DOG one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DOG one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dog-oneword-domains&utm_content=description.top) (4,183) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.DOG one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/dog-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.csv"><b>⬇️ CSV (4.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.json"><b>⬇️ JSON (4.19K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.csv"><b>⬇️ CSV (4.38K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.json"><b>⬇️ JSON (4.38K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dog-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.18K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.DOG one word domains]
 | abatic.dog     | available | 54       | 2%     | 6      |                  |                  |                  |
 | abaxial.dog    | available | 54       | 2%     | 7      |                  |                  |                  |
 | abbatial.dog   | available | 50       | 1%     | 8      |                  |                  |                  |
-| abc.dog        | resell    | 102      | 41%    | 3      | Sav.com, LLC - 4 | 29/01/2025 15:16 | 29/01/2026 15:16 |
+| abc.dog        | resell    | 102      | 39%    | 3      | Sav.com, LLC - 4 | 29/01/2025 15:16 | 29/01/2026 15:16 |
 | abdicable.dog  | available | 50       | 1%     | 9      |                  |                  |                  |
 | abdominal.dog  | available | 82       | 5%     | 9      |                  |                  |                  |
 | abdominous.dog | available | 56       | 1%     | 10     |                  |                  |                  |
@@ -42,20 +42,20 @@ If you want to search & filters the complete database of [.DOG one word domains]
 | aberrant.dog   | available | 74       | 7%     | 8      |                  |                  |                  |
 | abeyant.dog    | available | 56       | 2%     | 7      |                  |                  |                  |
 | abhorrent.dog  | available | 54       | 3%     | 9      |                  |                  |                  |
+| abide.dog      | available | 94       | 15%    | 5      |                  |                  |                  |
 | abiding.dog    | available | 106      | 5%     | 7      |                  |                  |                  |
 | abient.dog     | available | 54       | 1%     | 6      |                  |                  |                  |
-| abit.dog       | available | 66       | 16%    | 5      |                  |                  |                  |
+| abit.dog       | available | 66       | 12%    | 5      |                  |                  |                  |
 | abject.dog     | available | 94       | 8%     | 6      |                  |                  |                  |
 | abkhas.dog     | available | 68       | 1%     | 6      |                  |                  |                  |
 | abkhasian.dog  | available | 78       | 1%     | 9      |                  |                  |                  |
 | abkhaz.dog     | available | 82       | 2%     | 6      |                  |                  |                  |
 | abkhazian.dog  | available | 78       | 1%     | 9      |                  |                  |                  |
-| ablated.dog    | available | 52       | 2%     | 7      |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/dog-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.csv"><b>⬇️ CSV (4.19K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.json"><b>⬇️ JSON (4.19K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.csv"><b>⬇️ CSV (4.38K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/dog-oneword-domains/blob/main/dog.json"><b>⬇️ JSON (4.38K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dog-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.18K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.DOG one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
