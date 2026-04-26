@@ -1,22 +1,22 @@
-# Available .DOG One-Word Domains (8,451)
+# Available .DOG One-Word Domains (10,757)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C449%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C451%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C757%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .dog one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,449-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,451 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,757 domains** on the canonical page below.
 
-**Public extract:** 8,449 rows · **Live catalog:** 8,451 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,757 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/dog`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DOG one-word domain c
 
 ### Files
 
-- `dog.csv` — public CSV extract (8,449 rows)
-- `dog.json` — public JSON extract (8,449 rows)
+- `dog.csv` — public CSV extract (1,000 rows)
+- `dog.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| clear.dog     | available | $5.99     | $83.99        | 90             | 49     | 5      | name.com                                                  |
-| easy.dog      | resell    | —         | —             | 128            | 68     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| fast.dog      | premium   | $500      | $500          | 82             | 52     | 4      | name.com                                                  |
-| strategy.dog  | available | $86.98    | —             | 74             | 43     | 8      | namecheap                                                 |
-| flow.dog      | resell    | —         | —             | 96             | 66     | 4      | Dynadot Inc                                               |
-| life.dog      | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                                                 |
-| gather.dog    | available | $5.99     | $83.99        | 96             | 39     | 6      | name.com                                                  |
-| code.dog      | resell    | —         | —             | 72             | 61     | 4      | Porkbun LLC                                               |
-| travel.dog    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
-| forward.dog   | available | $5.99     | $83.99        | 68             | 39     | 7      | name.com                                                  |
-| mail.dog      | resell    | —         | —             | 94             | 59     | 4      | Spaceship, Inc.                                           |
-| gold.dog      | premium   | $520      | $520          | 72             | 48     | 4      | namecheap                                                 |
-| plus.dog      | available | $5.99     | —             | 82             | 38     | 4      | name.com                                                  |
-| dot.dog       | resell    | —         | —             | 74             | 58     | 3      | Sav.com, LLC - 12                                         |
-| auto.dog      | premium   | $520      | $520          | 68             | 45     | 4      | namecheap                                                 |
-| unify.dog     | available | $5.99     | $83.99        | 72             | 38     | 5      | name.com                                                  |
-| data.dog      | resell    | —         | —             | 70             | 56     | 4      | NETIM SAS                                                 |
-| insurance.dog | premium   | $520      | $520          | 76             | 44     | 9      | namecheap                                                 |
-| instant.dog   | available | $5.99     | $83.99        | 108            | 37     | 7      | name.com                                                  |
-| future.dog    | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc                                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| neuroscience.dog | available | $5.99     | —             | 80             | 37     | 12     | name.com          |
+| robots.dog       | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc       |
+| jobs.dog         | premium   | $500      | —             | 79             | 42     | 4      | name.com          |
+| spectra.dog      | available | $5.99     | —             | 62             | 34     | 7      | name.com          |
+| intelligence.dog | resell    | —         | —             | 84             | 38     | 12     | Sav.com, LLC - 46 |
+| partners.dog     | premium   | $500      | —             | 61             | 32     | 8      | name.com          |
+| etc.dog          | available | $5.99     | —             | 58             | 34     | 3      | name.com          |
+| SanDiego.dog     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo          |
+| payments.dog     | available | $5.99     | —             | 58             | 33     | 8      | name.com          |
+| maps.dog         | available | $5.99     | —             | 56             | 31     | 4      | name.com          |
+| blocks.dog       | available | $5.99     | —             | 53             | 29     | 6      | name.com          |
+| commonground.dog | available | $5.99     | —             | 74             | 28     | 13     | name.com          |
+| brands.dog       | available | $5.99     | —             | 62             | 28     | 6      | name.com          |
+| traders.dog      | available | $5.99     | —             | 60             | 26     | 7      | name.com          |
+| sites.dog        | available | $5.99     | —             | 53             | 26     | 5      | name.com          |
+| drops.dog        | available | $5.99     | —             | 52             | 25     | 5      | name.com          |
+| Trex.dog         | available | $86.98    | —             | 80             | 24     | 5      | namecheap         |
+| schools.dog      | available | $5.99     | —             | 72             | 24     | 7      | name.com          |
+| boats.dog        | available | $5.99     | —             | 52             | 24     | 5      | name.com          |
+| superhero.dog    | available | $5.99     | —             | 84             | 23     | 9      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,449-row public sample | 8,451 live domains                               |
+| 1,000-row public sample | 10,757 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
