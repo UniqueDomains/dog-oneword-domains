@@ -1,10 +1,10 @@
-# Available .DOG One-Word Domains (11,349)
+# Available .DOG One-Word Domains (11,354)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C349%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C354%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dog one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,349 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,354 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,349 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,354 domains · **Median ask:** $14.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/dog`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,16 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| Trex.dog         | available | $86.98    | —             | 80             | 24     | 5      | namecheap         |
+| finals.dog       | available | $5.99     | —             | 80             | 7      | 6      | name.com          |
+| jewels.dog       | available | $5.99     | —             | 80             | 15     | 6      | name.com          |
+| ladies.dog       | available | $5.99     | —             | 80             | 17     | 6      | name.com          |
+| barup.dog        | available | $5.99     | —             | 82             | 2      | 6      | name.com          |
+| forces.dog       | available | $5.99     | —             | 82             | 12     | 6      | name.com          |
+| geton.dog        | available | $5.99     | —             | 82             | 10     | 6      | name.com          |
+| toneup.dog       | available | $5.99     | —             | 80             | 5      | 7      | name.com          |
+| makeit.dog       | available | $5.99     | —             | 82             | 22     | 7      | name.com          |
+| dogsick.dog      | available | $5.99     | —             | 90             | 1      | 7      | name.com          |
 | spectra.dog      | available | $5.99     | —             | 62             | 34     | 7      | name.com          |
 | robots.dog       | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc       |
 | partners.dog     | premium   | $500      | —             | 61             | 32     | 8      | name.com          |
@@ -74,16 +84,6 @@ print(df.head())
 | toys.dog         | resell    | —         | —             | 60             | 24     | 4      | Sav.com, LLC - 32 |
 | maps.dog         | available | $5.99     | —             | 56             | 31     | 4      | name.com          |
 | blocks.dog       | available | $5.99     | —             | 53             | 29     | 6      | name.com          |
-| drops.dog        | available | $5.99     | —             | 52             | 25     | 5      | name.com          |
-| Trex.dog         | available | $86.98    | —             | 80             | 24     | 5      | namecheap         |
-| superhero.dog    | available | $5.99     | —             | 84             | 23     | 9      | name.com          |
-| holidays.dog     | available | $5.99     | —             | 78             | 23     | 8      | name.com          |
-| motorsport.dog   | available | $5.99     | —             | 74             | 23     | 10     | name.com          |
-| inhouse.dog      | available | $5.99     | —             | 70             | 23     | 8      | name.com          |
-| veterans.dog     | available | $5.99     | —             | 56             | 23     | 8      | name.com          |
-| pros.dog         | available | $5.99     | —             | 53             | 23     | 4      | name.com          |
-| makeit.dog       | available | $5.99     | —             | 82             | 22     | 7      | name.com          |
-| brothers.dog     | available | $5.99     | —             | 60             | 22     | 8      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,349 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,354 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .dog domains. That makes the main decision less about format and more about word quality. Names such as Acup.dog, Trex.dog, Finals.dog, Jewels.dog, Ladies.dog, GetUp.dog, and Popup.dog show the range: some are punchy and brandable, while others are broader words that may need a stronger use case to feel natural on .dog. For founders, the best picks are usually easy to say, easy to spell, and clearly improved by the extension. For investors, the key question is whether the word has enough relevance and resale appeal to offset the narrower market that comes with a niche TLD.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that feel natural with the .dog extension
+- Use median ask 14.15 as a basic price reference point
+- Favor clear spelling and strong recall over novelty alone
+- Check trademark overlap before valuing brandability highly
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
