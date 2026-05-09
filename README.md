@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dog one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,357 domains · **Median ask:** $14.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/dog`  
 **Best for:** founders, investors, studios
 
@@ -82,8 +82,8 @@ print(df.head())
 | SanDiego.dog     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo          |
 | payments.dog     | available | $5.99     | —             | 58             | 33     | 8      | name.com          |
 | toys.dog         | resell    | —         | —             | 60             | 24     | 4      | Sav.com, LLC - 32 |
+| valley.dog       | premium   | —         | —             | 64             | 30     | 6      | —                 |
 | maps.dog         | available | $5.99     | —             | 56             | 31     | 4      | name.com          |
-| blocks.dog       | available | $5.99     | —             | 53             | 29     | 6      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

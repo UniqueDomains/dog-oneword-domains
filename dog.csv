@@ -832,6 +832,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49a98c2e-d58c-4bfc-b85e-89121ffe67ca,expires.dog,available,5.99,,50,4,7,name.com,,
 49e67293-6a24-49f8-b477-978607fc26cf,outofoffice.dog,available,5.99,,61,19,13,name.com,,
 49f94ff8-8059-40aa-91d0-d8b2a97fb7e6,getoneselftogether.dog,available,5.99,,49,1,20,name.com,,
+4a16764f-f7b3-442d-8c86-e50a89a1cdcd,valley.dog,premium,,,64,30,6,,,
 4a42a2b1-6041-42fb-8e4b-7fca11b86bef,moustaches.dog,available,5.99,,53,3,10,name.com,,
 4a5687cd-8914-4570-ab70-fea63a76ba2b,subsequently.dog,available,5.99,,58,1,12,name.com,,
 4a74d689-c468-4605-b2bf-b967162569df,gettobe.dog,available,5.99,,54,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59f9648d-d6cf-4524-be55-2e184b0684de,getmedieval.dog,available,5.99,,70,1,12,name.com,,
 5a1e052d-aee7-4ea1-9628-f9d051b1c51a,bonappetit.dog,available,5.99,,86,8,11,name.com,,
 5a29e4b7-ebfd-43a3-91cc-64d4fdc7e8db,potatosalad.dog,available,5.99,,70,2,12,name.com,,
-5a38d517-a906-470d-99cc-ac09ea6e450c,remarks.dog,available,5.99,,56,6,7,name.com,,
