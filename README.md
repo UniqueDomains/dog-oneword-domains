@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dog one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,358 domains · **Median ask:** $14.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/dog`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | forces.dog       | available | $5.99     | —             | 82             | 12     | 6      | name.com          |
 | geton.dog        | available | $5.99     | —             | 82             | 10     | 6      | name.com          |
 | toneup.dog       | available | $5.99     | —             | 80             | 5      | 7      | name.com          |
-| makeit.dog       | available | $5.99     | —             | 82             | 22     | 7      | name.com          |
+| makeit.dog       | available | $5.99     | —             | 82             | 21     | 7      | name.com          |
 | dogsick.dog      | available | $5.99     | —             | 90             | 1      | 7      | name.com          |
 | spectra.dog      | available | $5.99     | —             | 62             | 34     | 7      | name.com          |
 | robots.dog       | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
