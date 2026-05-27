@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dog one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,358 domains · **Median ask:** $14.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/dog`  
 **Best for:** founders, investors, studios
 
@@ -76,11 +76,11 @@ print(df.head())
 | dogsick.dog      | available | $5.99     | —             | 90             | 1      | 7      | name.com          |
 | spectra.dog      | available | $5.99     | —             | 62             | 34     | 7      | name.com          |
 | robots.dog       | resell    | —         | —             | 62             | 47     | 6      | Dynadot Inc       |
-| partners.dog     | premium   | $500      | —             | 61             | 32     | 8      | name.com          |
-| etc.dog          | available | $5.99     | —             | 58             | 34     | 3      | name.com          |
+| partners.dog     | premium   | $500      | —             | 61             | 31     | 8      | name.com          |
+| payments.dog     | available | $5.99     | —             | 58             | 33     | 8      | name.com          |
 | intelligence.dog | resell    | —         | —             | 84             | 39     | 12     | Sav.com, LLC - 46 |
 | SanDiego.dog     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo          |
-| payments.dog     | available | $5.99     | —             | 58             | 33     | 8      | name.com          |
+| etc.dog          | available | $5.99     | —             | 58             | 32     | 3      | name.com          |
 | toys.dog         | resell    | —         | —             | 60             | 24     | 4      | Sav.com, LLC - 32 |
 | valley.dog       | premium   | —         | —             | 64             | 30     | 6      | —                 |
 | maps.dog         | available | $5.99     | —             | 56             | 31     | 4      | name.com          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
