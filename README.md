@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dog one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,094 domains · **Median ask:** $8.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/dog`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| off.dog      | available | —         | —             | high           | high   | 3      | —                |
-| special.dog  | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC     |
-| brief.dog    | available | $5.99     | $83.99        | high           | low    | 5      | name.com         |
 | ana.dog      | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | abc.dog      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
 | alaskan.dog  | premium   | $78.54    | $78.54        | low            | low    | 7      | namesilo         |
@@ -84,6 +81,9 @@ print(df.head())
 | hospital.dog | premium   | $500      | —             | medium         | low    | 8      | name.com         |
 | gag.dog      | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | lion.dog     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| ilx.dog      | available | $5.98     | $86.98        | low            | low    | 3      | namecheap        |
+| make.dog     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| ixl.dog      | available | $5.98     | $86.98        | low            | low    | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
