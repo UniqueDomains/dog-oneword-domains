@@ -8,6 +8,7 @@ fa7549e4-d2bf-4b05-b143-b47165bc1f6d,barebacked.dog,available,5.98,86.98,medium,
 1a833afb-19d1-40f7-96be-463dbf308009,barycenter.dog,available,7.49,64.99,medium,low,10,namesilo,,,22/09/2026 09:39
 01965e7b-e28d-4fd2-81cc-7ca3c45087f3,excuse.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 22:39
 ceda5b92-8fec-4f66-95e3-8dd1a8250276,sellable.dog,available,5.98,86.98,medium,low,8,namecheap,,,24/08/2026 20:28
+88e234cc-4593-42d4-8ce3-b780d3a238f9,denison.dog,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 08:06
 c2c06049-72a1-43de-87a4-ba6c57a0e579,kleenex.dog,available,5.99,,high,low,7,name.com,,,
 2673e884-7956-433c-ab9f-009fb637e0b3,feminism.dog,available,5.99,,high,low,8,name.com,,,
 83b3513b-5dbe-4a05-92d6-f7dac371c330,imported.dog,available,5.98,86.98,medium,low,8,namecheap,,,21/08/2026 22:48
@@ -25,18 +26,22 @@ f30304cb-517a-4e0e-92e2-f4aecb2eb372,cryonic.dog,available,5.98,86.98,medium,low
 3f76bb00-f3a5-455b-9724-290e53b8b1da,echt.dog,available,5.98,86.98,high,low,4,namecheap,,,14/08/2026 23:41
 1e0aad5d-4de2-4e30-b842-7cff3c82533b,crappy.dog,available,5.98,86.98,medium,low,6,namecheap,,,13/08/2026 05:12
 cc6339e3-7a9d-4b77-94bb-45dfc67c1656,according.dog,available,5.98,86.98,high,low,9,namecheap,,,
-85a889a2-a600-4763-acc4-9aa2487667c4,highly.dog,available,5.99,,high,low,6,name.com,,,
+36c0b214-92f9-4b46-b9ba-d407ace8d8b6,decrease.dog,available,5.38,51.95,medium,low,8,spaceship,,,29/09/2026 00:39
+85a889a2-a600-4763-acc4-9aa2487667c4,highly.dog,available,7.49,64.99,medium,low,6,namesilo,,,28/09/2026 14:51
+3b0996e8-b5ae-4938-816b-72f9afcdd21a,ignoring.dog,available,5.38,51.95,medium,low,8,spaceship,,,28/09/2026 11:32
+29813d83-16df-48cd-8d7a-1775865fd7ad,sewell.dog,available,3.5,53.72,medium,low,6,dynadot,,,28/09/2026 22:10
 49477700-5c2f-4707-97ae-adfd43177d71,cheesy.dog,available,7.49,64.99,medium,low,6,namesilo,,,23/09/2026 11:13
 76848bf1-0df1-4562-a265-f6f8cf92e68c,qualified.dog,available,5.98,86.98,high,low,9,namecheap,,,14/08/2026 02:10
 a160964b-7912-4dbf-a9fd-bdcbbc71f767,granth.dog,available,7.49,64.99,medium,low,6,namesilo,,,17/09/2026 08:05
 187c16cd-6b48-4520-ba67-48e6c7946e61,confusing.dog,available,5.98,86.98,high,low,9,namecheap,,,23/09/2026 20:14
 5f2665cd-3805-4589-9d1e-c6b5f288c16f,avena.dog,available,7.49,64.99,high,low,5,namesilo,,,21/09/2026 08:53
-a4d71eb3-03a7-4ecf-b425-8aa64f892c34,wholesale.dog,resell,,,high,low,9,Dynadot Inc,10/06/2026 17:00,10/06/2027 17:00,26/09/2026 10:09
+a4d71eb3-03a7-4ecf-b425-8aa64f892c34,wholesale.dog,resell,,,high,low,9,Dynadot Inc,10/06/2026 17:00,10/06/2027 17:00,28/09/2026 09:01
 a394b0fc-70e7-46ee-8565-76df0c8f1597,andover.dog,available,7.49,64.99,medium,low,7,namesilo,,,27/09/2026 18:38
 db6b9477-19a0-4315-ba6c-0ec666f6c1de,commons.dog,available,7.49,64.99,high,low,7,namesilo,,,23/09/2026 16:05
 5f069e35-1fe1-4f3a-ada3-a9ed7949488c,audi.dog,available,,,high,high,4,,,,
 2b23331b-37d6-46a9-9540-5c2f954bebe0,hiding.dog,available,5.98,86.98,high,low,6,namecheap,,,08/09/2026 11:45
 84c22b29-17a1-414f-aa01-58c898b41417,corporation.dog,available,7.49,64.99,high,low,11,namesilo,,,27/09/2026 16:41
+b3f83582-2305-4b6d-95c2-37047c0f29a8,communicating.dog,available,3.5,53.72,medium,low,13,dynadot,,,28/09/2026 17:54
 6d9d1bb5-d133-45dc-ab1b-2daca5bd782e,virginia.dog,available,7.49,64.99,high,low,8,namesilo,,,25/09/2026 09:38
 c1a8b0fd-4cb9-433f-ad63-3adb15d142ec,granville.dog,available,7.49,64.99,medium,low,9,namesilo,,,27/09/2026 01:40
 77db0db9-632b-4767-b320-37c0d1ef11ac,georgian.dog,available,5.98,86.98,high,low,8,namecheap,,,18/08/2026 22:37
@@ -53,7 +58,10 @@ dd892eeb-c639-4081-88ce-e4c5fe10b91c,ablaze.dog,available,5.98,86.98,high,low,6,
 88672032-7490-41dc-a702-a0c5860e7749,asian.dog,available,7.49,64.99,high,low,5,namesilo,,,22/09/2026 09:40
 0b3aa971-a580-48b5-86cf-69c065a07939,flawless.dog,available,5.98,86.98,high,low,8,namecheap,,,18/08/2026 07:19
 b52fdfe0-450c-4218-beb8-2ca2a74f1e4d,tasmanian.dog,available,5.98,86.98,high,low,9,namecheap,,,11/09/2026 08:50
+bfd218d5-1528-427e-9e77-b44ea373812d,stokes.dog,available,7.49,64.99,medium,low,6,namesilo,,,28/09/2026 22:21
+289bd294-b848-4456-b3dc-46bf4c65a271,huston.dog,available,7.49,64.99,medium,low,6,namesilo,,,28/09/2026 14:28
 cbdd5515-a386-4c63-a282-1971766e86bd,frumpy.dog,available,5.98,86.98,medium,low,6,namecheap,,,18/08/2026 17:06
+5c685e49-ffcd-44f7-b911-684d14ca11ad,armand.dog,available,5.98,86.98,medium,low,6,namecheap,,,28/09/2026 07:26
 aa9324f1-d3a7-4103-85a6-a94a3dad61cb,ann.dog,available,5.99,,high,low,3,name.com,,,
 519bb2c3-14af-4ab9-8807-812876a0cc0e,simplicity.dog,available,5.99,,high,low,10,name.com,,,
 7325d191-b7fd-48aa-a71f-9678cc143eeb,royalties.dog,available,7.49,64.99,medium,low,9,namesilo,,,18/09/2026 03:27
@@ -62,20 +70,25 @@ bb4d914a-d4fc-4b3f-984b-fd34c378ed3a,anura.dog,available,7.49,64.99,medium,low,5
 d4a52c0f-0402-4159-9069-694e829a5a05,marvellous.dog,available,5.98,86.98,high,low,10,namecheap,,,25/09/2026 00:14
 9676fcc1-ba08-4ab6-9de9-1d585cd7814f,crumpled.dog,available,5.98,86.98,medium,low,8,namecheap,,,13/08/2026 09:06
 cbe694be-c533-40a8-ba97-9528a4de7f88,carping.dog,available,5.98,86.98,medium,low,7,namecheap,,,18/08/2026 00:03
+7a915b32-0b8c-411d-84b6-52ba18bed164,mahler.dog,available,7.49,64.99,medium,low,6,namesilo,,,29/09/2026 01:10
 c7fdf09c-3b20-4264-bbde-2525cc6eec35,beefy.dog,available,5.98,86.98,medium,low,5,namecheap,,,09/08/2026 07:49
 cc432643-fcf1-4af8-9c44-7b01b85d80cd,oversized.dog,available,5.98,86.98,medium,low,9,namecheap,,,04/09/2026 19:45
 d50e4572-b498-4c6d-aab8-87bda6a6c3d3,urges.dog,available,5.98,86.98,medium,low,5,namecheap,,,16/09/2026 09:15
 7b854b5a-ed82-47ff-a9e4-e409202f43f3,methodical.dog,available,5.98,86.98,high,low,10,namecheap,,,24/08/2026 21:56
-4cbfd035-20d2-49dd-ba44-82c3f5c975f1,scientifically.dog,available,5.99,,medium,low,14,name.com,,,
-825314e1-8929-4b5b-a2aa-a01f16372a15,television.dog,available,7.49,64.99,high,low,10,namesilo,,,25/09/2026 22:50
+3ed274ec-3998-40a8-a97c-bcc5c43c3624,brenner.dog,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 22:08
+4cbfd035-20d2-49dd-ba44-82c3f5c975f1,scientifically.dog,available,7.49,64.99,medium,low,14,namesilo,,,28/09/2026 07:41
+825314e1-8929-4b5b-a2aa-a01f16372a15,television.dog,available,7.49,64.99,high,low,10,namesilo,,,28/09/2026 15:29
 31c542db-61dd-465f-b558-9c23a8c37633,leaks.dog,available,7.49,64.99,medium,low,5,namesilo,,,18/09/2026 06:46
 74556c59-8bfd-4200-acdf-a0c5c1031be9,confidential.dog,available,7.49,64.99,high,low,12,namesilo,,,27/09/2026 17:23
 9665c632-7551-43e1-a531-2a01b82eef91,stimulant.dog,available,5.98,86.98,high,low,9,namecheap,,,17/08/2026 16:30
 ef3c28b2-893f-4e60-91fe-3c10777e4d44,rattled.dog,available,5.98,86.98,medium,low,7,namecheap,,,18/08/2026 09:33
+b54aa370-0321-46d7-9f73-8c72ad48ffb5,avoided.dog,available,50.2,50.2,low,low,7,cloudflare,,,29/09/2026 05:05
 5329f45c-8178-4484-9060-4ec696017f18,fraternal.dog,available,5.98,86.98,high,low,9,namecheap,,,10/08/2026 03:44
+af9bc4c3-6621-409c-81f7-04d3f0816227,langley.dog,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 14:40
 b49c8be7-c145-4995-b5e7-8cc2f0fe498e,stevens.dog,available,5.98,86.98,high,low,7,namecheap,,,25/09/2026 06:30
 27714534-1479-44e8-bb27-5dd5e361fa1a,gabriel.dog,available,5.98,86.98,high,medium,7,namecheap,,,28/09/2026 05:49
 7f1c24b6-a8d4-47bc-b652-7a668edb02c1,stumps.dog,available,5.99,,medium,low,6,name.com,,,
+1a5d7424-eaa5-4844-939c-b7326b88c804,rockville.dog,available,7.49,64.99,medium,low,9,namesilo,,,28/09/2026 16:09
 26bc3fe2-c027-4013-84be-173779664614,garry.dog,available,50.2,50.2,high,low,5,cloudflare,,,28/09/2026 03:42
 fc8e3936-9054-4d13-8257-caf7e0ae2d2c,abolition.dog,available,5.98,86.98,high,low,9,namecheap,,,16/09/2026 16:28
 1b6124cc-0b72-4947-99f7-45a4ce2cb0b8,sewed.dog,available,5.98,86.98,medium,low,5,namecheap,,,10/09/2026 05:05
@@ -84,6 +97,7 @@ fc8e3936-9054-4d13-8257-caf7e0ae2d2c,abolition.dog,available,5.98,86.98,high,low
 db41fbb5-aef0-47de-987f-263fb183fe2e,blackseed.dog,available,7.49,64.99,medium,low,9,namesilo,,,24/09/2026 03:00
 76f45cc8-c7b7-4638-947f-bef273b58280,drawing.dog,available,5.99,,high,low,7,name.com,,,
 b7ab5a43-a63d-4796-811d-35248e020809,hussein.dog,available,7.49,64.99,medium,low,7,namesilo,,,25/09/2026 07:40
+ca8c88ff-3db2-42c9-96b0-8bb45e7a8d5d,stables.dog,available,5.98,86.98,medium,low,7,namecheap,,,28/09/2026 23:40
 851e07c5-d0dc-4ec3-91dd-e9d8b2b08134,teatime.dog,available,7.49,64.99,high,low,7,namesilo,,,17/09/2026 15:45
 67b75efe-b905-4a02-bef5-489a10ac9291,victor.dog,available,,,high,medium,6,,,,
 d36ab34e-fe52-41c5-8198-e4690df272a4,adenauer.dog,available,5.99,83.99,medium,low,8,name.com,,,17/09/2026 07:24
@@ -99,14 +113,18 @@ d858483f-57ba-4fa5-bebb-e3d897c32bad,stunningly.dog,available,7.49,64.99,medium,
 ed3de565-0e55-437f-aaaa-f8a920741b6f,beethoven.dog,available,5.98,86.98,high,low,9,namecheap,,,23/09/2026 01:53
 1f351631-361d-4d94-a2c1-272dcafaf510,sourly.dog,available,5.98,86.98,low,low,6,namecheap,,,16/09/2026 05:40
 73429fe2-5650-4cf3-9d80-8588d36e1cf1,asterisk.dog,available,5.98,86.98,high,low,8,namecheap,,,20/09/2026 17:11
+d3dec223-d562-43e2-b371-4e5e36e396d6,grease.dog,available,5.38,51.95,high,low,6,spaceship,,,28/09/2026 14:21
 f0dcb2f9-2bb7-4d46-a30f-18f5acb84c6e,kissing.dog,available,7.49,64.99,high,low,7,namesilo,,,24/09/2026 12:56
+91e849c2-8edf-4d65-919b-de7b10753dad,nell.dog,available,3.6,52.01,medium,low,4,porkbun,,,28/09/2026 07:53
 5fa15337-0f0c-4f52-82bb-b6b92f1d43af,misgiving.dog,available,7.49,64.99,medium,low,9,namesilo,,,24/09/2026 23:11
 ef708296-0e60-4966-8f17-bcf82835b0dd,tympanic.dog,available,5.98,86.98,medium,low,8,namecheap,,,11/09/2026 22:25
 df7fa43a-075e-4a15-9c13-6c57d7a53347,kathy.dog,available,5.38,51.95,high,low,5,spaceship,,,27/09/2026 19:14
+4d45e136-b09e-4025-ab03-7cb31121d75c,evolved.dog,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 21:24
 a6dee7ba-ce8a-41ba-a89c-4ccfef44ff7f,scourge.dog,available,5.98,86.98,medium,low,7,namecheap,,,18/08/2026 06:16
 5bd943dc-dcc3-44cc-897a-658de86ca92a,projectile.dog,available,5.98,86.98,high,low,10,namecheap,,,09/09/2026 02:59
 250590dc-a0e6-4a86-a8b8-29f17d23474d,hitless.dog,available,5.98,86.98,medium,low,7,namecheap,,,20/08/2026 15:56
 47d0ed6e-3061-4db1-b72c-4cb1decffe48,earth.dog,resell,,,high,medium,5,"GoDaddy.com, LLC",14/04/2021 00:57,14/04/2027 00:57,26/09/2026 05:44
+3b5b52e1-5fea-4235-84af-1167c3a78b9f,proceeding.dog,available,5.38,51.95,medium,low,10,spaceship,,,28/09/2026 10:14
 ee959229-0225-4779-b3c5-dd90d8c9b213,temperature.dog,available,5.99,,high,low,11,name.com,,,
 71c335c0-9b26-44f7-81bf-a1ccd3d66596,checklist.dog,available,5.99,,high,low,9,name.com,,,
 49c18d02-c650-4a6f-aed4-d72d7e43fa0e,profits.dog,available,5.38,51.95,high,low,7,spaceship,,,28/09/2026 05:34
@@ -114,10 +132,12 @@ e00f1f1d-9bbb-4f75-ac60-df5200c1a2bc,advertisements.dog,available,5.99,,medium,l
 a6177ce8-e307-4501-8fef-4d3ed26de592,originally.dog,available,5.98,86.98,high,low,10,namecheap,,,15/09/2026 07:14
 07f343ea-6b49-4a5a-9e41-3a7b5f7fe55a,appalling.dog,available,5.98,86.98,medium,low,9,namecheap,,,06/08/2026 04:31
 d10758bb-e945-4389-a16f-715d9652cc5e,relational.dog,available,5.98,86.98,high,low,10,namecheap,,,09/09/2026 13:20
+3e838fb3-77a0-4fb7-b0bf-175634370b71,solomon.dog,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 20:31
 cbf9d51f-dd8b-453e-9c0c-54767025fa1a,susurrous.dog,available,5.98,86.98,medium,low,9,namecheap,,,03/09/2026 11:24
 a01cfa82-875b-4ee6-b789-7c9ed2622a17,myotonic.dog,available,5.98,86.98,medium,low,8,namecheap,,,03/09/2026 12:15
 d6af323b-04f5-445e-985c-8a85052951be,include.dog,available,5.99,,high,low,7,name.com,,,
 70a051ea-e9f6-4e2f-9568-e66999a70af5,eighty.dog,available,5.98,86.98,high,low,6,namecheap,,,
+559f4adf-d00c-49ed-a92f-7bf22936b4dd,lana.dog,available,7.49,64.99,high,low,4,namesilo,,,29/09/2026 04:18
 775b9334-a8b0-4547-993a-1f411a2fda6a,jammed.dog,available,5.98,86.98,medium,low,6,namecheap,,,22/08/2026 12:07
 5052eff5-7c3f-4310-aab7-83aafd079908,lust.dog,available,5.99,,high,low,4,name.com,,,
 96e8da52-3d20-4deb-9b78-f81d99924d09,engineers.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 04:20
@@ -126,6 +146,7 @@ d6af323b-04f5-445e-985c-8a85052951be,include.dog,available,5.99,,high,low,7,name
 b6bc7323-9318-416b-b5da-a74fd177802b,buxom.dog,available,5.98,86.98,medium,low,5,namecheap,,,10/08/2026 20:28
 eeebfde1-f0b1-488b-aff2-3b606846e214,uncured.dog,available,5.98,86.98,medium,low,7,namecheap,,,12/09/2026 06:39
 a076355b-3180-453e-97d6-235e4f6cd429,playstation.dog,available,,,high,high,11,,,,
+4cba19c7-c56c-4457-900a-ebb3ef50fe5e,remorse.dog,available,5.38,51.95,medium,low,7,spaceship,,,29/09/2026 00:28
 25ce13fa-fb2a-448b-8c7a-79b8ffa7d636,appleton.dog,available,5.98,86.98,medium,low,8,namecheap,,,19/09/2026 21:41
 b9f03ebe-dda4-434e-b4df-b1ac58239a37,liii.dog,available,5.98,86.98,medium,low,4,namecheap,,,
 4b3ac7de-2ecd-421d-b45b-83cf35c2efa3,receiving.dog,available,50.2,50.2,high,low,9,cloudflare,,,27/09/2026 17:11
@@ -133,10 +154,12 @@ c97d4df3-e673-4faf-9519-0441d792c9cd,swain.dog,available,7.49,64.99,medium,low,5
 211d00e2-1c6d-46cf-87f2-761630c59be4,humoral.dog,available,5.98,86.98,medium,low,7,namecheap,,,21/08/2026 15:21
 896e17e5-56f8-4ba8-bfe6-db6e2fc31cf7,bilby.dog,available,5.98,86.98,medium,low,5,namecheap,,,23/09/2026 15:40
 d7d8e4b7-4c62-44e1-994f-af1fdc6008a9,kooky.dog,available,5.98,86.98,medium,low,5,namecheap,,,06/08/2026 21:04
+56a80a83-c883-4349-8d05-57486c6281d8,slaughtered.dog,available,50.2,50.2,medium,low,11,cloudflare,,,29/09/2026 05:12
 ff6b47f5-a2c4-4e80-a3b3-35f08042bc15,attendee.dog,available,7.49,64.99,high,low,8,namesilo,,,21/09/2026 01:26
 a7c72bd7-5ee7-4e57-be3a-dea95b1b35e5,gazillion.dog,available,5.98,86.98,high,low,9,namecheap,,,11/09/2026 19:54
 c51202f4-99d0-434f-a3ba-af5d11940da0,cajole.dog,available,7.49,64.99,medium,low,6,namesilo,,,24/09/2026 04:10
 dd78dbe5-8625-40b8-be52-4918bdfe6753,orphan.dog,available,5.99,,high,low,6,name.com,,,
+9352f595-75fe-48ba-8504-88f526497ffe,cheltenham.dog,available,5.38,51.95,medium,low,10,spaceship,,,28/09/2026 12:18
 3dd7a2b9-77ae-4e41-8700-2fc58c0c9a6c,marry.dog,available,5.98,86.98,high,low,5,namecheap,,,13/09/2026 09:36
 047d8a68-fe99-456d-b242-49ffa9a5bd5e,glance.dog,available,5.99,,high,low,6,name.com,,,
 0110f290-7667-4a54-b677-0e733b4c19fc,emollient.dog,available,5.98,86.98,high,low,9,namecheap,,,14/08/2026 01:39
@@ -144,13 +167,15 @@ dd78dbe5-8625-40b8-be52-4918bdfe6753,orphan.dog,available,5.99,,high,low,6,name.
 d5f92b22-692a-4d6c-b6fc-31a938f48817,nodded.dog,available,7.49,64.99,medium,low,6,namesilo,,,18/09/2026 03:34
 2a06a68c-c6b0-484e-8108-7668ce143c1e,colourise.dog,available,5.98,86.98,medium,low,9,namecheap,,,12/08/2026 17:38
 78ae9c2b-6f7b-4f5b-b9f3-66f15f289b97,offerings.dog,available,7.49,64.99,medium,low,9,namesilo,,,18/09/2026 10:39
-8991e853-cc1a-4752-bf0b-85291c67ff0b,mile.dog,available,5.99,,high,low,4,name.com,,,
+8991e853-cc1a-4752-bf0b-85291c67ff0b,mile.dog,available,50.2,50.2,high,low,4,cloudflare,,,28/09/2026 18:43
 c49b2014-c2a6-4f0e-8aa5-770b6e20ffba,heather.dog,available,7.49,64.99,high,low,7,namesilo,,,28/09/2026 05:22
 e7ea69a0-45ac-436d-896d-396e2b3646b9,controlling.dog,available,5.99,,high,low,11,name.com,,,
 055a9519-3004-488d-aea8-c1228d25a89b,bijou.dog,available,7.49,64.99,high,low,5,namesilo,,,23/09/2026 15:32
+29094a67-29ee-4f4c-8be9-cceb14a5aadc,tunnels.dog,available,7.49,64.99,low,low,7,namesilo,,,28/09/2026 12:41
 49b0ab42-cb81-48ac-84f7-7bf0d1d4753a,pandora.dog,available,5.99,,high,low,7,name.com,,,
 9911c4c2-a582-4476-933d-82047d402cb5,plumbers.dog,available,7.49,64.99,medium,low,8,namesilo,,,20/09/2026 11:13
 4a3dd485-80bc-479a-9f46-604de69e52a4,worry.dog,available,5.99,,high,low,5,name.com,,,
+c1a2ea69-c77c-4e8c-a682-13555740c20e,consolation.dog,available,7.49,64.99,high,low,11,namesilo,,,28/09/2026 22:58
 f6ad28a7-5e93-4e1b-9a69-3ef80e7cdd82,bent.dog,available,5.98,86.98,medium,low,4,namecheap,,,09/08/2026 14:16
 f4d7fac5-36bd-4f7a-adc4-a6734aa23337,energizer.dog,available,7.49,64.99,high,low,9,namesilo,,,19/09/2026 09:06
 d72035ba-22b7-485b-9f00-80a0ec3486f4,triennial.dog,available,5.98,86.98,medium,low,9,namecheap,,,11/09/2026 19:31
@@ -159,12 +184,14 @@ be881c47-8aca-437d-894f-82d40291656b,manager.dog,available,7.49,64.99,high,low,7
 54716857-1dac-4f93-baa2-16a13782d787,hipaa.dog,available,5.99,,high,low,5,name.com,,,
 0c7c8fb4-0ef5-48cf-9d35-67ce4eb035e7,forthwith.dog,available,5.98,86.98,medium,low,9,namecheap,,,10/09/2026 21:39
 baa65f8d-4470-4df6-b297-0d7e245d60ff,scrimmage.dog,available,7.49,64.99,high,low,9,namesilo,,,22/09/2026 16:24
+7f69c40a-361d-4841-9444-1ab3f045eaed,darryl.dog,available,3.5,53.72,medium,low,6,dynadot,,,28/09/2026 21:59
 8a190082-a2ca-458a-b987-4a4e77b8293f,incubation.dog,available,5.98,86.98,high,low,10,namecheap,,,11/08/2026 06:10
 918b5d84-188f-4649-a1b3-f5470ee5c2d3,barque.dog,available,5.98,86.98,high,low,6,namecheap,,,22/09/2026 07:48
 8ee9a22a-4b7d-42c1-b7d1-d72df2c7cb15,acetone.dog,available,7.49,64.99,high,low,7,namesilo,,,17/09/2026 00:07
 4abe6b9c-77e8-4c25-9c7e-13450f797215,poured.dog,available,7.49,64.99,medium,low,6,namesilo,,,18/09/2026 02:28
 65fd3661-acee-4918-85f1-82de47e9071c,upmost.dog,available,5.98,86.98,medium,low,6,namecheap,,,11/09/2026 17:50
 b082e3ff-4229-498c-9abe-81303772f7f7,likeness.dog,available,7.49,64.99,high,low,8,namesilo,,,18/09/2026 07:48
+3f364cab-594b-4b77-89ab-9b69285bc32b,lump.dog,available,5.98,86.98,medium,low,4,namecheap,,,29/09/2026 00:25
 880a7cb6-4ee3-4d4f-8584-1bb15df6731a,numbing.dog,available,5.98,86.98,medium,low,7,namecheap,,,03/09/2026 22:49
 80bbe794-097b-486b-a442-afa6c643bfdf,seconded.dog,available,7.49,64.99,medium,low,8,namesilo,,,20/09/2026 15:37
 d316a4bc-fa00-4aec-92f6-be3dba6c9a9f,unshackled.dog,available,5.98,86.98,medium,low,10,namecheap,,,12/09/2026 04:58
@@ -178,8 +205,9 @@ c69a8953-a4f6-4759-8d6f-add85fe226b5,bevy.dog,available,7.49,64.99,medium,low,4,
 f868a523-ce72-498c-ac80-eb5c7847dee9,paralytic.dog,available,5.98,86.98,medium,low,9,namecheap,,,08/09/2026 00:57
 cb4b40d3-9721-4afd-b9bb-67e6402baf25,unexampled.dog,available,5.98,86.98,medium,low,10,namecheap,,,12/09/2026 09:24
 061906c3-f1bf-4652-80b4-bf57c04496ae,annum.dog,available,7.49,64.99,high,low,5,namesilo,,,19/09/2026 11:04
+b023c487-222c-48aa-901d-71919a8979bf,shandong.dog,available,3.6,52.01,medium,low,8,porkbun,,,29/09/2026 03:52
 a55c9fb4-0169-478a-8243-85a56c6553d2,studded.dog,available,5.98,86.98,medium,low,7,namecheap,,,10/09/2026 22:57
-8265b1e0-7300-46fa-91d1-e99e301cceb8,seriously.dog,available,5.99,,high,low,9,name.com,,,
+8265b1e0-7300-46fa-91d1-e99e301cceb8,seriously.dog,available,7.49,64.99,medium,low,9,namesilo,,,28/09/2026 13:17
 3a470ddc-1795-4afa-ad9c-afe802c0f484,toned.dog,available,5.98,86.98,high,low,5,namecheap,,,11/09/2026 17:02
 f6a37ddd-23ff-45e1-af21-90cc93441f59,gesture.dog,available,7.49,64.99,high,low,7,namesilo,,,27/09/2026 13:44
 20e68ca3-416b-47ed-8512-15cf0edb66c4,traveler.dog,available,5.99,,high,low,8,name.com,,,
@@ -187,6 +215,7 @@ f6a37ddd-23ff-45e1-af21-90cc93441f59,gesture.dog,available,7.49,64.99,high,low,7
 868507fc-ee77-4c98-a232-afd3c29e3bb4,swagman.dog,available,5.98,86.98,medium,low,7,namecheap,,,11/09/2026 05:01
 b868c8e6-d88b-4edc-80d0-50333d0f798f,unmeasured.dog,available,5.98,86.98,medium,low,10,namecheap,,,21/08/2026 20:53
 1b59eba7-9338-4989-910b-6c6f2fef998e,downfall.dog,available,7.49,64.99,medium,low,8,namesilo,,,24/09/2026 23:39
+319d2b3b-10e9-414b-a53a-8514f9ff0fc9,idf.dog,available,5.38,51.95,medium,low,3,spaceship,,,28/09/2026 14:30
 ec5d5e06-26d4-4c5f-a3e5-278f25d011f3,unfrozen.dog,available,5.98,86.98,medium,low,8,namecheap,,,12/09/2026 10:54
 3feb241a-66d0-482f-aa68-ebc2c5c321ec,stooping.dog,available,5.98,86.98,medium,low,8,namecheap,,,21/08/2026 15:34
 a8bc82d0-6c12-4701-ac2c-49b11de6fdc3,seraphical.dog,available,5.98,86.98,medium,low,10,namecheap,,,10/09/2026 04:31
@@ -200,18 +229,19 @@ dbea38e4-89d9-49c0-b1ed-484ab228105c,endangered.dog,available,5.98,86.98,high,lo
 afd6b2e3-daff-4ae2-849a-5791a62ea741,conjoin.dog,available,5.98,86.98,high,low,7,namecheap,,,13/09/2026 09:37
 29114ff1-6a47-40cb-8423-cc385ac9e41d,backdrop.dog,available,7.49,64.99,high,low,8,namesilo,,,21/09/2026 15:21
 aca7242c-3398-4b33-a7ca-7602a06106b5,haughty.dog,available,5.98,86.98,medium,low,7,namecheap,,,21/08/2026 01:24
+596fe6ae-2c4b-47dd-ad38-3760eb2b1211,superiors.dog,available,7.49,64.99,medium,low,9,namesilo,,,29/09/2026 05:50
 18dee32f-d821-493e-aa51-ed8be6e0e386,hoarfrost.dog,available,5.98,86.98,medium,low,9,namecheap,,,21/08/2026 10:07
-3cb5e16c-6bfa-4dde-8caf-24ee7fd9a7a4,bundle.dog,available,5.99,,high,low,6,name.com,,,
+3cb5e16c-6bfa-4dde-8caf-24ee7fd9a7a4,bundle.dog,available,5.38,51.95,high,low,6,spaceship,,,29/09/2026 02:36
 18f479bb-a581-4ce7-bece-88bb632cc839,randolph.dog,available,7.49,64.99,high,low,8,namesilo,,,25/09/2026 14:59
 6e0c7555-0229-4f99-9a9c-2623c5152f76,fictive.dog,available,5.98,86.98,medium,low,7,namecheap,,,07/08/2026 07:55
-769b777d-4350-457c-a743-608851d83c1d,california.dog,premium,242,242,high,low,10,namesilo,,,
+769b777d-4350-457c-a743-608851d83c1d,california.dog,premium,260,260,high,medium,10,namecheap,,,29/09/2026 05:55
 a32bce03-acfb-43ed-aed5-44e48f2b0127,restless.dog,available,5.98,86.98,high,low,8,namecheap,,,27/09/2026 12:53
 5495ab54-d3b0-45fa-a11b-574e58a62053,acardia.dog,available,5.98,86.98,medium,low,7,namecheap,,,16/09/2026 21:17
 f0bfe485-0412-42b1-aab0-71e50c390cbe,jazzy.dog,available,5.98,86.98,high,low,5,namecheap,,,22/08/2026 12:35
 a9c7ac13-90ef-420e-8e0e-ac6a4c255ddb,celebrated.dog,available,5.98,86.98,high,low,10,namecheap,,,11/08/2026 23:10
 06fe3ac0-f48d-4578-9325-6d9651370393,diane.dog,available,5.98,86.98,high,low,5,namecheap,,,25/09/2026 19:09
 57f3a5ed-2616-4bab-a389-378993fb66e2,dishonor.dog,available,5.99,,medium,low,8,name.com,,,
-13dd1062-7975-4501-b633-1562da8357da,banter.dog,available,5.98,86.98,high,low,6,namecheap,,,22/08/2026 13:53
+13dd1062-7975-4501-b633-1562da8357da,banter.dog,available,7.49,64.99,high,low,6,namesilo,,,28/09/2026 07:57
 4163ab2e-e48b-4238-8a8e-aac3c245d68a,indorse.dog,available,5.98,86.98,medium,low,7,namecheap,,,08/08/2026 05:17
 18d23954-74f2-4533-9812-5d46719b13ac,astatine.dog,available,7.49,64.99,medium,low,8,namesilo,,,20/09/2026 16:55
 dd6090c8-15c6-44ca-b25a-61579b1c279d,avaritia.dog,available,7.49,64.99,medium,low,8,namesilo,,,21/09/2026 08:46
@@ -220,6 +250,7 @@ a6f63e67-b18e-4894-965c-48477a2fe8b6,loyola.dog,available,5.98,86.98,medium,low,
 701a87ed-0592-4f30-afa5-6dcc10653659,atresia.dog,available,7.49,64.99,medium,low,7,namesilo,,,21/09/2026 00:42
 c9782b47-0b85-4070-955f-a719387f9581,dour.dog,available,5.98,86.98,medium,low,4,namecheap,,,14/08/2026 14:56
 0adee0a1-3aca-4189-bf68-5ec974d2ed07,hemorrhage.dog,available,7.49,64.99,medium,low,10,namesilo,,,24/09/2026 05:28
+df97cfba-82b2-4088-a3ea-5b7a4116820f,mme.dog,available,7.49,64.99,high,low,3,namesilo,,,29/09/2026 03:05
 92f412ee-0287-4cda-bb46-0a6bf1f8eafa,miss.dog,premium,26,26,high,low,4,namecheap,,,27/09/2026 03:56
 3bb7c8cb-566d-4cb0-a0dc-b0e9cb3ada67,prophet.dog,available,5.98,86.98,high,low,7,namecheap,,,28/09/2026 02:52
 c63cf2dc-ea07-448c-853b-5e0264eca991,plosive.dog,available,5.98,86.98,medium,low,7,namecheap,,,04/09/2026 00:16
@@ -235,7 +266,7 @@ f0349d89-73c1-4855-a1c5-161ab5a37c08,bale.dog,available,7.49,64.99,medium,low,4,
 038d5993-6366-4570-93c9-68d3eb1f709b,agio.dog,available,5.98,86.98,medium,low,4,namecheap,,,17/09/2026 18:01
 e42bc659-513c-48fb-a985-87b3930e1a18,launches.dog,available,7.49,64.99,medium,low,8,namesilo,,,21/09/2026 09:09
 847c7af3-2fba-4979-9f91-0035fabc6042,annexa.dog,available,5.98,86.98,medium,low,6,namecheap,,,17/09/2026 09:06
-9e29ae1f-94c1-4f10-90cf-2b663747a4e8,ana.dog,available,5.99,,high,low,3,name.com,,,
+9e29ae1f-94c1-4f10-90cf-2b663747a4e8,ana.dog,available,50.2,50.2,high,low,3,cloudflare,,,28/09/2026 21:04
 d9be5252-2603-4101-9e17-bed36d3fbd85,switches.dog,available,7.49,64.99,medium,low,8,namesilo,,,16/09/2026 23:57
 c960c612-ad6e-4db7-9536-90bc61ca7620,iceberg.dog,available,7.49,64.99,high,low,7,namesilo,,,23/09/2026 09:15
 3d0ddc2f-9b8c-45d3-9062-47ef61dc850c,sherwood.dog,available,7.49,64.99,high,low,8,namesilo,,,25/09/2026 10:26
@@ -244,12 +275,14 @@ d5bcfe84-fd57-4c18-a3d9-8353baa00b5e,slur.dog,available,7.49,64.99,medium,low,4,
 acc81647-ed13-4893-b05b-c568e20ba74d,thousandth.dog,available,5.98,86.98,high,low,10,namecheap,,,
 9ecc84bd-862d-458c-a5d7-d94fd0482326,ferned.dog,available,5.98,86.98,medium,low,6,namecheap,,,18/08/2026 01:58
 8e7aa5d7-666f-49e4-9a08-1c4fa7af83ed,contiguity.dog,available,7.49,64.99,medium,low,10,namesilo,,,17/09/2026 08:24
+57c86737-7251-4f44-94c6-ee1c7e866de5,repairs.dog,available,5.38,51.95,medium,low,7,spaceship,,,28/09/2026 18:11
 7d8aeb76-7dfd-437d-a631-afaf97b98e63,restrained.dog,available,5.98,86.98,medium,low,10,namecheap,,,20/08/2026 20:43
 1618794d-8e6a-40ee-95ec-d591ac035605,brooks.dog,available,7.49,64.99,high,low,6,namesilo,,,24/09/2026 10:47
 4072c7f2-9989-46e2-8a0f-934cd583b329,viviparous.dog,available,5.98,86.98,medium,low,10,namecheap,,,24/08/2026 07:53
+19c9b6f3-1ce1-4111-b15a-c0e9c3b6623c,permanently.dog,available,5.38,51.95,medium,low,11,spaceship,,,28/09/2026 07:19
 a4ece1e2-16e1-4e91-9524-1ec01eb3e9ba,blowhard.dog,available,5.98,86.98,medium,low,8,namecheap,,,11/08/2026 01:19
 2c92eef8-a035-4ed0-88ec-15a09338b9b7,dependence.dog,available,7.49,64.99,medium,low,10,namesilo,,,17/09/2026 06:54
-b80c22e6-f8b7-49b8-a901-b9902e3e96c2,delight.dog,available,5.99,,high,low,7,name.com,,,
+b80c22e6-f8b7-49b8-a901-b9902e3e96c2,delight.dog,available,3.6,52.01,high,low,7,porkbun,,,28/09/2026 16:32
 f43ee553-b95d-490a-9cdd-751841fe093b,patched.dog,available,5.98,86.98,medium,low,7,namecheap,,,08/09/2026 10:18
 5fc34b27-8663-4e12-bd32-50f5d5d9e292,canton.dog,available,7.49,64.99,high,low,6,namesilo,,,23/09/2026 16:10
 24ad85d0-f663-4929-93a4-6912174905a3,dollar.dog,resell,,,high,low,6,"Sav.com, LLC - 48",21/11/2025 15:15,21/11/2026 15:15,26/09/2026 05:38
@@ -270,8 +303,10 @@ eb0846f2-a10f-4a5a-a904-cdbd620e1ab4,alumna.dog,available,5.98,86.98,high,low,6,
 28ae8cfc-8f31-4a57-a78a-e2f27acd0918,onomastic.dog,available,5.98,86.98,medium,low,9,namecheap,,,04/09/2026 15:15
 1e6e39c6-b8c0-427e-b271-48cfd208cb4b,dickson.dog,available,7.49,64.99,high,low,7,namesilo,,,25/09/2026 15:42
 74611fde-742c-4c9b-a43a-b0af11b630aa,campground.dog,available,7.49,64.99,high,low,10,namesilo,,,24/09/2026 11:56
+7e46b44f-73db-46fd-9959-cc2a8bc40819,protector.dog,available,5.98,86.98,high,low,9,namecheap,,,28/09/2026 13:52
 11e48900-3a16-4898-8505-1181ec684585,aztec.dog,available,7.49,64.99,high,low,5,namesilo,,,21/09/2026 11:36
-e73ad656-59c1-4117-a18d-1b28c5397570,urge.dog,available,5.99,,high,low,4,name.com,,,
+7877fcf6-9a9f-410b-b552-0c5df10e0a09,danzig.dog,available,7.49,64.99,medium,low,6,namesilo,,,28/09/2026 09:29
+e73ad656-59c1-4117-a18d-1b28c5397570,urge.dog,available,5.98,86.98,high,low,4,namecheap,,,28/09/2026 19:09
 25f9bd11-d4d4-4072-a4e5-a898005877e2,raffish.dog,available,5.99,83.99,medium,low,7,name.com,,,13/08/2026 17:31
 eadfeb46-0c75-4693-9510-53f1de0ba0f7,bonds.dog,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 04:31
 53f33904-b1c6-4a01-938d-a105a7380f04,contents.dog,available,5.99,,high,low,8,name.com,,,
@@ -288,9 +323,11 @@ ce04d6a7-484a-4621-8c66-4a0db890a4f4,gina.dog,available,5.38,51.95,high,low,4,sp
 d1f050d9-3d09-4df5-8fa7-52ca0fe17779,marshy.dog,available,5.98,86.98,medium,low,6,namecheap,,,10/08/2026 17:03
 c938452b-c2bc-4966-8808-1a1be2302ffd,utility.dog,available,7.49,64.99,high,low,7,namesilo,,,19/09/2026 06:04
 f0375a03-8d28-4caf-ba83-35f13a33afd1,berne.dog,available,5.98,86.98,medium,low,5,namecheap,,,23/09/2026 09:45
+4a0f0738-5c75-4d71-b7c3-c3db2fb8f6d5,whitney.dog,available,7.49,64.99,medium,low,7,namesilo,,,28/09/2026 13:59
 9775846e-afe9-49d6-8902-cf99686d99ed,whiskered.dog,available,5.98,86.98,medium,low,9,namecheap,,,08/08/2026 16:15
 74311849-b67b-4e55-9fb6-20cf07273d0f,wearing.dog,available,5.98,86.98,medium,low,7,namecheap,,,11/09/2026 16:26
 cab21703-412a-4145-b07a-666f7050cd13,basal.dog,available,5.98,86.98,medium,low,5,namecheap,,,08/08/2026 21:24
+4a5f498d-23fb-49b2-812e-6cd6ef11b030,announcing.dog,available,50.2,50.2,medium,low,10,cloudflare,,,29/09/2026 05:34
 d3a8b7a4-cb33-4e63-9290-734c1d7f69c3,wade.dog,available,5.38,51.95,high,low,4,spaceship,,,28/09/2026 06:51
 aea2febf-7806-42e2-9f94-20f8a97c1eb4,aconitum.dog,available,7.49,64.99,medium,low,8,namesilo,,,17/09/2026 02:06
 e3f384ad-54eb-4fa2-823e-466e0d8cf7e8,rebecca.dog,available,7.49,64.99,high,low,7,namesilo,,,25/09/2026 10:16
@@ -303,10 +340,12 @@ eddf1452-fe36-4f0d-a4cd-bae9cb61ddd4,rubinstein.dog,available,7.49,64.99,medium,
 7ffd2d5e-7160-4194-a5f7-099b144731fe,stir.dog,available,7.49,64.99,high,low,4,namesilo,,,17/09/2026 09:23
 aec2fec4-0287-4c47-b556-89fcd1be6164,apiarian.dog,available,5.98,86.98,medium,low,8,namecheap,,,05/08/2026 23:53
 3e3294b0-e51e-4f62-aba1-6fa11e111431,ironic.dog,available,5.98,86.98,high,low,6,namecheap,,,25/09/2026 11:21
+968a7f09-49ee-4cb0-9ea1-8c925da945cd,sustain.dog,available,3.5,53.72,high,low,7,dynadot,,,29/09/2026 02:41
 4c53abe2-1636-43e3-818c-2ffb1c53228c,inhabitant.dog,available,5.99,83.99,high,low,10,name.com,,,24/09/2026 21:51
 c930ed0f-d6f0-4147-9ab4-6ebc33d88a7f,backslash.dog,available,5.99,,high,low,9,name.com,,,
 39d832d6-3239-42ec-836f-fe7bf0481fb8,roundness.dog,available,5.98,86.98,medium,low,9,namecheap,,,16/08/2026 12:39
 a49b4f68-4247-4a8b-86e5-29a020afacf2,umbilicus.dog,available,5.98,86.98,medium,low,9,namecheap,,,23/09/2026 06:37
+8daf6dda-04ed-422b-9a8e-6fe0feffaa33,bala.dog,available,5.38,51.95,medium,low,4,spaceship,,,28/09/2026 22:20
 0c00aae2-ffcb-4a27-9c85-a5cec724e353,pronounced.dog,available,7.49,64.99,high,low,10,namesilo,,,25/09/2026 16:53
 330a5afc-4e7f-4443-a2c7-fab7921d153e,shu.dog,available,5.38,51.95,medium,low,3,spaceship,,,27/09/2026 21:11
 f8bb9ff7-4cfc-4fd7-b231-27d03551a724,asymmetric.dog,available,5.98,86.98,medium,low,10,namecheap,,,07/08/2026 10:25
@@ -317,13 +356,14 @@ b567e1bd-1ceb-4d87-afbd-6f8de41738ad,handling.dog,available,7.49,64.99,high,low,
 496bf2e8-3561-4a68-a3e9-2c84b4f57291,larger.dog,available,5.98,86.98,high,low,6,namecheap,,,22/09/2026 20:38
 96ed76a1-7e4a-4724-bf94-6f1d8a48632b,meagre.dog,available,5.98,86.98,medium,low,6,namecheap,,,24/08/2026 18:04
 d090c144-7eda-4a67-86d4-14a9bc21c15e,squandered.dog,available,5.98,86.98,medium,low,10,namecheap,,,10/09/2026 17:24
+14cea7b5-caf5-41d8-91e8-8e7092c0d43f,margot.dog,available,5.98,86.98,high,low,6,namecheap,,,28/09/2026 21:14
 67dd4838-0297-4bf8-8a60-bc3f7f93d7bc,infertile.dog,available,5.98,86.98,medium,low,9,namecheap,,,22/08/2026 04:24
 714a5bf3-788a-4fad-8c03-1b647f84fd7e,measurement.dog,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 05:47
 984f792d-a32b-43e3-a88b-c1c0adcdbfc5,carol.dog,available,7.49,64.99,high,low,5,namesilo,,,24/09/2026 13:02
 c63b77ae-68df-4cbc-a5e5-d38d111b8acb,watchfully.dog,available,7.49,64.99,medium,low,10,namesilo,,,16/09/2026 10:58
 068cc322-305c-4ce8-8dd7-005c1d1679ea,attending.dog,available,7.49,64.99,high,low,9,namesilo,,,21/09/2026 01:25
 d4948785-42d8-43c7-b22b-d31d39cc4962,unstarred.dog,available,5.98,86.98,medium,low,9,namecheap,,,12/09/2026 01:15
-32f4fa79-e54c-4742-97e9-03847998d290,useful.dog,available,5.99,,high,low,6,name.com,,,
+32f4fa79-e54c-4742-97e9-03847998d290,useful.dog,available,5.38,51.95,high,low,6,spaceship,,,28/09/2026 10:01
 019733d9-e3e4-408e-a87d-9af158fcbdc8,accelerator.dog,available,3.6,52.01,high,low,11,porkbun,,,28/09/2026 02:37
 5fd6aec1-ba39-4e3c-8803-e15d5347ede9,nonpolar.dog,available,5.98,86.98,medium,low,8,namecheap,,,03/09/2026 20:17
 ee484d8c-28e8-4f01-b5a4-2f3147a87081,profitably.dog,available,5.98,86.98,medium,low,10,namecheap,,,14/09/2026 20:29
@@ -332,11 +372,13 @@ ee484d8c-28e8-4f01-b5a4-2f3147a87081,profitably.dog,available,5.98,86.98,medium,
 f4b5bb00-24f7-47c1-86f2-06dbd4f2d0c7,terminators.dog,available,7.49,64.99,low,low,11,namesilo,,,20/09/2026 12:06
 335b61ac-c1d7-47ae-980c-c803eb4fa2ea,interpret.dog,available,5.99,,high,low,9,name.com,,,
 d4e0e7e3-4b49-4cbb-9b58-2a0677276ab2,faceted.dog,available,5.98,86.98,medium,low,7,namecheap,,,17/08/2026 20:24
+efa35a69-e116-4c1e-9ed4-fa0406c25518,tennessee.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 11:00
 8f94adec-c8e8-42f8-8e7c-80c7f411fffe,punt.dog,available,5.98,86.98,high,low,4,namecheap,,,18/08/2026 19:54
 df3d3cca-69c1-4280-a1a0-42f69ee131ac,notifies.dog,available,7.49,64.99,medium,low,8,namesilo,,,18/09/2026 08:35
 fd7fe5eb-e3de-4f1e-92c8-968cdb9e4928,refused.dog,available,7.49,64.99,medium,low,7,namesilo,,,18/09/2026 13:40
 41e13940-8400-4a4f-864d-20633d786691,bihari.dog,available,7.49,64.99,medium,low,6,namesilo,,,23/09/2026 15:31
 a1537832-835e-48e1-b8c6-c1d04d2c45ee,anguis.dog,available,5.98,86.98,medium,low,6,namecheap,,,19/09/2026 07:34
+38485c2d-4246-466f-aa9f-72d98340c927,rebels.dog,available,5.98,86.98,medium,low,6,namecheap,,,28/09/2026 08:52
 793d30ac-94ac-46fb-8987-02feb9e66b03,chalybeate.dog,available,5.98,86.98,medium,low,10,namecheap,,,12/08/2026 01:32
 8d4027cc-005d-4c90-96d5-ba8233628366,doctrinal.dog,available,5.98,86.98,medium,low,9,namecheap,,,14/08/2026 14:25
 c7a7a460-789b-4019-8aed-00ced85874d7,beheading.dog,available,7.49,64.99,medium,low,9,namesilo,,,23/09/2026 03:20
@@ -345,11 +387,13 @@ c7a7a460-789b-4019-8aed-00ced85874d7,beheading.dog,available,7.49,64.99,medium,l
 a689fbaf-979c-4cbe-9ff8-245ef1a733c0,morbid.dog,available,5.98,86.98,medium,low,6,namecheap,,,14/08/2026 10:10
 e5353c21-28b9-4f4d-a471-46c9a498e526,crust.dog,available,7.49,64.99,high,low,5,namesilo,,,24/09/2026 14:05
 35d0fc06-b66a-4faa-a1b3-750d4a36425b,nuclei.dog,available,5.98,86.98,medium,low,6,namecheap,,,
+ca967dce-d933-4b7f-b33f-569c2260aa22,distraction.dog,available,7.49,64.99,medium,low,11,namesilo,,,28/09/2026 16:54
 2db35793-fe64-49a2-9e1d-696289adebf4,moderato.dog,available,5.98,86.98,medium,low,8,namecheap,,,25/08/2026 02:58
 15df2940-1001-4970-843e-35600c5550b2,diminutive.dog,available,5.98,86.98,medium,low,10,namecheap,,,08/08/2026 14:10
+7d3c032c-a4f2-423b-92f9-32393f9d8822,popcorn.dog,available,5.38,51.95,high,medium,7,spaceship,,,28/09/2026 20:12
 c9d8a6ec-e062-4cf2-b4fd-958ea7cfd017,endorse.dog,available,5.98,86.98,high,low,7,namecheap,,,08/09/2026 09:45
 75e110bf-5dec-459c-a4fd-f9a556354396,calmness.dog,available,5.98,86.98,high,low,8,namecheap,,,11/08/2026 14:56
-f696da03-d392-4a74-9dd1-b8fd2405e933,operations.dog,available,7.49,64.99,high,low,10,namesilo,,,23/09/2026 02:52
+f696da03-d392-4a74-9dd1-b8fd2405e933,operations.dog,available,50.2,50.2,high,low,10,cloudflare,,,28/09/2026 08:17
 43f83ff3-6413-4042-ae9d-218fd0d4efe9,skipjack.dog,available,5.98,86.98,medium,low,8,namecheap,,,20/09/2026 21:35
 cb27485f-cb1a-4217-aff6-2be1afd46911,claptrap.dog,available,7.49,64.99,medium,low,8,namesilo,,,24/09/2026 03:39
 68733097-d5d5-488d-b920-c00d7d1eb4f9,ballyhoo.dog,available,7.49,64.99,high,low,8,namesilo,,,21/09/2026 23:32
@@ -361,28 +405,38 @@ ca6fd4a2-f43a-4b37-b2be-d715e44604df,bellbottom.dog,available,5.98,86.98,low,low
 f2f6c9fd-2648-4a9e-9d00-984ac471a0bf,magically.dog,available,5.98,86.98,high,low,9,namecheap,,,13/09/2026 21:17
 1712e647-52cd-4bb1-a9ca-99a3cd7d1d94,bratty.dog,available,5.98,86.98,medium,low,6,namecheap,,,11/08/2026 02:37
 c1e968a2-15d6-455d-82bf-6b1e2ad7c741,quintet.dog,available,5.98,86.98,high,low,7,namecheap,,,
+09268d08-fadd-42c9-bfcb-b90307c0a03b,cholesterol.dog,available,7.49,64.99,high,low,11,namesilo,,,29/09/2026 05:08
+2b54c838-758d-4689-a072-5589ff06b22d,bomber.dog,available,5.38,51.95,medium,low,6,spaceship,,,28/09/2026 09:10
 a2b60c96-b3a4-4b41-80d7-423fd87ac19e,blat.dog,available,5.98,86.98,medium,low,4,namecheap,,,10/08/2026 13:38
 6398eb97-0f14-434e-8626-88e9a2e29359,biosphere.dog,available,5.99,83.99,high,low,9,name.com,,,23/09/2026 19:04
 d68a0ca7-aa47-4a89-98be-1cf4830e5893,admissible.dog,available,5.98,86.98,high,low,10,namecheap,,,
 e1e90e57-002c-45fd-87d3-017380d3445a,mothafucka.dog,available,5.99,,medium,low,10,name.com,,,
+8ddeefe5-2c29-469b-94b1-e01a0bce294f,guessing.dog,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 13:52
 a539cec3-9e03-433c-9598-fb0a0ef20903,primo.dog,resell,,,high,low,5,"NameCheap, Inc.",13/05/2022 13:15,13/05/2027 13:15,26/09/2026 08:19
 68e66062-8817-4a44-9c88-78965523ce76,paramount.dog,available,5.98,86.98,high,low,9,namecheap,,,04/09/2026 21:41
 f5c13510-0917-46d1-a9ac-1977b5e502af,hester.dog,available,3.5,53.72,medium,low,6,dynadot,,,28/09/2026 03:59
+ae9b0e96-d72e-47a6-9946-6032408b623a,guangzhou.dog,available,5.38,51.95,medium,low,9,spaceship,,,28/09/2026 13:37
 1f133a0b-c3bd-4e8c-938f-202457dc5e74,djia.dog,available,5.99,,medium,low,4,name.com,,,
 cf65e51f-bd3b-4adc-bbe4-984522290f32,hypaethral.dog,available,5.98,86.98,medium,low,10,namecheap,,,21/08/2026 16:39
 6c96fe67-5437-4cb1-b339-8c2e18f3a5cf,erose.dog,available,5.98,86.98,medium,low,5,namecheap,,,17/08/2026 12:30
 85b53c58-d5c4-4d06-98ce-35b30b64b9c9,leftist.dog,available,5.98,86.98,medium,low,7,namecheap,,,12/08/2026 17:05
+ac0e50aa-d500-4771-ae56-7bcee8cd8d6f,gardening.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 14:15
 deb95ac9-dcd9-4648-942b-d86ee13ab60e,restructuring.dog,available,5.99,,medium,low,13,name.com,,,
 e473f424-f432-4ad7-af6e-20ca084d919e,basra.dog,available,7.49,64.99,medium,low,5,namesilo,,,22/09/2026 10:33
 85d36329-179a-415c-909c-6c222cb5192d,bedspread.dog,available,5.98,86.98,high,low,9,namecheap,,,22/09/2026 22:52
+0e7d2b3c-8f56-485a-b871-63fe0fa113c3,mosses.dog,available,7.49,64.99,low,low,6,namesilo,,,29/09/2026 05:08
 b7b6235b-c73a-42b8-96a3-141b70afd3af,sleeve.dog,available,5.38,51.95,high,low,6,spaceship,,,27/09/2026 15:53
+3e2cb3b4-3849-4323-a6be-84d90dea70ca,financially.dog,available,50.2,50.2,medium,low,11,cloudflare,,,28/09/2026 12:33
 cc4daff9-5926-4440-8293-f2846fa027e3,parted.dog,available,5.98,86.98,medium,low,6,namecheap,,,08/09/2026 01:57
+9593fd6f-07d6-492c-b430-9a9fb8697239,sniper.dog,resell,,,medium,low,6,,,,28/09/2026 15:22
 fab2275f-e0cf-4f59-89ba-2228204e2794,almsgiving.dog,available,7.49,64.99,medium,low,10,namesilo,,,18/09/2026 12:43
+2c90dbbe-8260-4025-b256-f048330fa0bd,sleeps.dog,available,5.38,51.95,medium,low,6,spaceship,,,28/09/2026 13:22
 3ddbaf58-5c85-4ae9-8759-983ebba1ba80,abstractor.dog,available,5.98,86.98,medium,low,10,namecheap,,,16/09/2026 18:29
+4f692c1f-e42d-468b-8f2d-ba63f5a3e01b,movements.dog,available,5.98,86.98,low,low,9,namecheap,,,28/09/2026 12:36
 5c75a35b-4542-4dda-ba24-472599a8d133,essentially.dog,available,5.38,51.95,medium,low,11,spaceship,,,28/09/2026 07:07
 4feaa629-de3e-4cb9-a981-e67345c02028,jovian.dog,available,5.98,86.98,medium,low,6,namecheap,,,22/08/2026 14:02
 90db3df0-fdce-46c4-a03a-821558c32c17,positional.dog,available,5.98,86.98,medium,low,10,namecheap,,,09/09/2026 00:06
-de3eafb4-a265-4b84-af09-a5926bc669de,hoops.dog,available,5.99,,high,low,5,name.com,,,
+de3eafb4-a265-4b84-af09-a5926bc669de,hoops.dog,available,5.38,51.95,high,low,5,spaceship,,,29/09/2026 01:29
 a90b5b09-0dfb-452c-83a3-fb6e4d63f45b,manky.dog,available,5.98,86.98,medium,low,5,namecheap,,,24/08/2026 15:12
 30ca44b8-6ce0-4c75-8c88-e215e44ad44e,goddamned.dog,available,5.98,86.98,medium,low,9,namecheap,,,10/08/2026 12:48
 1214c52a-fa45-4297-af94-bbf642e4f984,arginine.dog,available,7.49,64.99,medium,low,8,namesilo,,,20/09/2026 04:24
@@ -392,16 +446,20 @@ fdaa164f-bb23-4f8a-bef8-0178bf17b7a3,sameness.dog,available,5.98,86.98,medium,lo
 6d4f3a2c-dfa7-4a6c-b416-f0e6b84d68f4,unrecorded.dog,available,5.98,86.98,medium,low,10,namecheap,,,24/08/2026 07:46
 3335d154-e616-4df8-976a-4656b796e2b2,bulky.dog,available,7.49,64.99,medium,low,5,namesilo,,,23/09/2026 10:36
 dcccc129-d989-4fbb-a543-3db2f61190db,loneliness.dog,available,7.49,64.99,high,low,10,namesilo,,,18/09/2026 13:13
-2b288fd3-0253-4780-8808-73c45f0bf590,appeal.dog,available,5.99,,high,low,6,name.com,,,
+2b288fd3-0253-4780-8808-73c45f0bf590,appeal.dog,available,7.49,64.99,high,low,6,namesilo,,,28/09/2026 21:53
 07bc493f-5caa-4165-a2f4-88d50a1cc2f4,tetragon.dog,available,5.98,86.98,medium,low,8,namecheap,,,09/09/2026 07:24
 0ca2128f-0298-46b5-9e0b-1ef900947e4b,ghosts.dog,available,7.49,64.99,medium,low,6,namesilo,,,18/09/2026 22:14
 1ca43ce7-0386-4250-9cdf-3d90725dc0b2,tweet.dog,available,5.99,,high,low,5,name.com,,,
 31a76cc0-e98c-4c04-a418-138bed07165d,rapacity.dog,available,5.98,86.98,medium,low,8,namecheap,,,21/09/2026 08:45
+fff9cda6-f7d2-4c7c-af13-28752b953ee7,tuck.dog,available,7.49,64.99,medium,low,4,namesilo,,,28/09/2026 15:12
 5327b3b4-abf9-4bb7-bb40-ebb9fa46d78a,outlined.dog,available,5.98,86.98,high,low,8,namecheap,,,04/09/2026 19:31
 a58f6494-8976-4388-958e-48537726fedc,limbless.dog,available,5.98,86.98,medium,low,8,namecheap,,,23/08/2026 12:35
-9e75b070-bdf3-4534-a338-42bd56b29941,wakening.dog,available,5.99,,high,low,8,name.com,,,
+9e75b070-bdf3-4534-a338-42bd56b29941,wakening.dog,available,7.49,64.99,high,low,8,namesilo,,,28/09/2026 23:37
 9409837e-d551-472c-a8bc-0ba736ddae59,alanine.dog,available,5.98,86.98,high,low,7,namecheap,,,18/09/2026 01:50
+318c991f-d880-4986-aada-09cfa3c4b251,conspicuous.dog,available,7.49,64.99,medium,low,11,namesilo,,,29/09/2026 03:02
+ce508ffa-5bca-4c4a-b161-b5dde9ccb013,timetable.dog,available,3.5,53.72,high,low,9,dynadot,,,28/09/2026 20:39
 e05e4870-322a-4a38-9ef3-345289ed1ab6,treachery.dog,available,7.49,64.99,medium,low,9,namesilo,,,23/09/2026 11:23
+a640e26c-3bf9-46e2-ac0c-15a5a88fa54d,burrows.dog,available,7.49,64.99,medium,low,7,namesilo,,,29/09/2026 03:16
 ef7fe733-ffba-48e2-83f1-9097172a16e8,moonflower.dog,available,7.49,64.99,high,low,10,namesilo,,,23/09/2026 06:03
 82977d48-6f72-4512-afe9-c33b50b01a4b,meticulous.dog,available,5.98,86.98,high,low,10,namecheap,,,24/08/2026 22:04
 ad8a3988-d3d5-4056-8de1-c2836286af2a,fatigue.dog,available,7.49,64.99,high,low,7,namesilo,,,25/09/2026 11:36
@@ -410,14 +468,16 @@ ad8a3988-d3d5-4056-8de1-c2836286af2a,fatigue.dog,available,7.49,64.99,high,low,7
 5ee90de6-a141-4301-894e-68379668cd82,priests.dog,available,5.98,86.98,medium,low,7,namecheap,,,18/09/2026 03:38
 e5c53e1c-d70b-451d-ae6f-4a05633727c8,befog.dog,available,5.98,86.98,medium,low,5,namecheap,,,03/09/2026 23:52
 5d94740c-116b-4c8a-8a2c-9efbbaca53f7,illiterate.dog,available,5.98,86.98,medium,low,10,namecheap,,,21/08/2026 20:03
+ca53a941-cf89-4aac-89a0-7c916e5307cb,obligations.dog,available,5.38,51.95,low,low,11,spaceship,,,29/09/2026 05:17
 034ef71c-0386-4b74-b0f7-c6a79ee2c046,mccormick.dog,available,7.49,64.99,high,low,9,namesilo,,,25/09/2026 04:30
 85a8043b-98be-422a-ba5b-74be2503d5cc,jut.dog,available,5.98,86.98,medium,low,3,namecheap,,,22/08/2026 14:56
+be9a5392-e494-46c7-be05-469c27cf003a,probe.dog,available,5.38,51.95,high,low,5,spaceship,,,28/09/2026 10:09
 0151b924-edf8-442f-a9c9-b480d33ee2a3,redevelopment.dog,available,50.2,50.2,medium,low,13,cloudflare,,,28/09/2026 05:35
 41ba82c5-39a5-47fa-941f-ac566df8b720,arietta.dog,available,7.49,64.99,medium,low,7,namesilo,,,20/09/2026 05:25
 63d83ab0-3a9e-4225-9543-865412b05d0c,adorably.dog,available,5.98,86.98,medium,low,8,namecheap,,,13/09/2026 17:21
 d022d06b-9615-4748-b9a2-e209ba418e24,networks.dog,available,7.49,64.99,high,low,8,namesilo,,,19/09/2026 17:41
 3ddc33cc-1b17-449e-9476-04fd7aacf51f,messianic.dog,available,5.98,86.98,medium,low,9,namecheap,,,24/08/2026 21:22
-becf79ac-f05c-4b80-b539-12f6aaf9bdb8,lobby.dog,available,5.99,,high,low,5,name.com,,,
+becf79ac-f05c-4b80-b539-12f6aaf9bdb8,lobby.dog,available,3.6,52.01,high,low,5,porkbun,,,28/09/2026 21:38
 e03d0826-2227-4654-95b8-f9351208a773,cervine.dog,available,5.98,86.98,medium,low,7,namecheap,,,12/08/2026 01:00
 a157ce0d-6b68-406e-8be1-a899bdb715a1,proves.dog,available,7.49,64.99,medium,low,6,namesilo,,,18/09/2026 07:04
 e952ecf0-f5e8-4346-a930-3272dc49df24,beverage.dog,available,5.38,51.95,high,low,8,spaceship,,,28/09/2026 05:24
@@ -430,6 +490,7 @@ ae01dac7-acc2-4436-8fc0-50c586e70801,said.dog,available,5.99,,high,low,4,name.co
 cce7f03d-07e8-4f09-8203-778e9a280a16,mutinous.dog,available,5.98,86.98,medium,low,8,namecheap,,,03/09/2026 11:55
 1820fdbe-cffb-4e84-ae5b-1b63fb101aec,tandem.dog,available,5.98,86.98,high,low,6,namecheap,,,15/09/2026 06:56
 a963806d-67c3-4033-82c5-02b432e6c4cb,feasibly.dog,available,5.98,86.98,medium,low,8,namecheap,,,14/09/2026 18:08
+f397f767-ed58-4703-895b-289e892191d8,compelled.dog,available,7.49,64.99,low,low,9,namesilo,,,28/09/2026 23:06
 2f24ba45-1cc7-4717-88ff-84d86c8113c6,marine.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 16:45
 20b138f3-e497-431d-8d36-8e33bcbee1de,unkind.dog,available,5.98,86.98,medium,low,6,namecheap,,,12/09/2026 14:11
 35756e6f-ba6b-4080-b4bd-229f42c03534,downmarket.dog,available,5.98,86.98,medium,low,10,namecheap,,,14/08/2026 17:48
@@ -441,6 +502,7 @@ cb9cd040-6015-4afc-bd6d-2996c5cc5115,participate.dog,available,7.49,64.99,high,l
 546bcea4-cac4-4ceb-bf0b-4848dcb4631c,timbered.dog,available,5.98,86.98,medium,low,8,namecheap,,,11/09/2026 15:59
 590e3fb5-0080-4694-8137-5aa75018873b,blowout.dog,available,5.38,51.95,high,low,7,spaceship,,,27/09/2026 16:59
 67c579eb-e95e-49c8-b384-a8d9a17155d0,guerrilla.dog,available,5.98,86.98,high,low,9,namecheap,,,22/08/2026 10:14
+7cc9d7fd-5205-4a3c-9a42-9a2c17bde190,ramirez.dog,available,5.38,51.95,medium,low,7,spaceship,,,28/09/2026 08:04
 05de5784-aa9c-4d81-bebd-82bb1c14936d,unshaven.dog,available,5.98,86.98,medium,low,8,namecheap,,,12/09/2026 19:40
 ecc19033-0d51-439c-872f-13e93ed0ae2b,pentad.dog,available,5.98,86.98,medium,low,6,namecheap,,,
 a2e91287-2ee3-4557-9ffd-2633d0943e31,impressive.dog,available,5.98,86.98,high,low,10,namecheap,,,21/08/2026 23:04
@@ -451,6 +513,7 @@ a2e91287-2ee3-4557-9ffd-2633d0943e31,impressive.dog,available,5.98,86.98,high,lo
 e1149238-0984-40ae-bc26-0fab1d75b8a9,faraway.dog,available,5.98,86.98,high,low,7,namecheap,,,17/08/2026 22:14
 0cf4f478-cd1e-4139-a037-4ddb0dbc25e0,carelessly.dog,available,5.98,86.98,high,low,10,namecheap,,,14/09/2026 05:19
 da369d58-0bc7-469e-8763-aabdf4d44b2f,cropped.dog,available,5.98,86.98,medium,low,7,namecheap,,,13/08/2026 07:53
+fbf4df9d-259e-4451-96a1-c414108fd7e4,obliged.dog,available,7.49,64.99,medium,low,7,namesilo,,,28/09/2026 11:17
 63c74d92-6edb-45b9-917c-3de59909de1a,unlogical.dog,available,5.98,86.98,low,low,9,namecheap,,,21/08/2026 20:07
 2a32e90b-7adb-40a0-991b-929f540df9fa,andradite.dog,available,7.49,64.99,medium,low,9,namesilo,,,19/09/2026 04:09
 03671840-8dd2-4cbe-ab8b-d9d99484d096,dastard.dog,available,5.99,83.99,medium,low,7,name.com,,,13/08/2026 18:32
@@ -458,7 +521,7 @@ b140f656-25f9-445f-ad8d-fe24c2916ad3,undogmatic.dog,available,5.98,86.98,medium,
 acd5c48a-b72b-4b7a-90f1-6a7b0da0cf31,lurid.dog,available,5.98,86.98,medium,low,5,namecheap,,,24/08/2026 11:42
 b261649c-3625-4441-a608-5b842a64b9c7,antido.dog,available,5.98,86.98,medium,low,6,namecheap,,,19/09/2026 14:17
 1c131275-7364-4ee8-983d-8404bf05112c,permissive.dog,available,5.98,86.98,medium,low,10,namecheap,,,08/09/2026 17:48
-1df9b6cc-09b8-47db-b5a3-3d4f7c9b37a3,promotions.dog,available,7.49,64.99,high,low,10,namesilo,,,20/09/2026 23:27
+1df9b6cc-09b8-47db-b5a3-3d4f7c9b37a3,promotions.dog,available,50.2,50.2,medium,low,10,cloudflare,,,28/09/2026 08:51
 8349102c-ee09-4826-b025-94c4ee20c172,calling.dog,available,7.49,64.99,high,low,7,namesilo,,,24/09/2026 11:48
 960753b9-0212-4e7b-a484-f602c39c9c5c,feckless.dog,available,5.98,86.98,medium,low,8,namecheap,,,18/08/2026 00:31
 23a11273-5422-49a3-ae2d-40a12762e1c1,ramsey.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 15:22
@@ -466,11 +529,13 @@ b261649c-3625-4441-a608-5b842a64b9c7,antido.dog,available,5.98,86.98,medium,low,
 4064dca6-724d-42f3-9b3f-68c34ca88d92,shapeless.dog,available,5.98,86.98,medium,low,9,namecheap,,,
 a24e607a-e774-4061-974b-8bd797cde0e7,aum.dog,available,7.49,64.99,high,low,3,namesilo,,,21/09/2026 04:10
 ee0ac69b-b317-4d18-99b8-d265d48b652d,ductile.dog,available,5.98,86.98,medium,low,7,namecheap,,,14/08/2026 20:50
+f1bd6647-6f17-464c-af9a-3ee7849b47df,exploring.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 15:59
 77bb9299-d972-4a69-900b-efd7d784bfc6,chthonian.dog,available,5.98,86.98,medium,low,9,namecheap,,,12/08/2026 07:26
 cff13133-af13-4400-ab30-808008b28ead,babar.dog,available,7.49,64.99,high,low,5,namesilo,,,21/09/2026 12:14
 c94ca2ac-2363-4f48-a611-aabbb88804e0,neighborly.dog,available,5.98,86.98,high,low,10,namecheap,,,03/09/2026 15:16
+f4ccfa1d-b54d-49f1-8adc-fb3ea3cb5adc,sandusky.dog,available,50.2,50.2,medium,low,8,cloudflare,,,28/09/2026 22:26
 27488faa-9a10-4f00-81bb-8dfd94f61b8a,lecherous.dog,available,5.98,86.98,medium,low,9,namecheap,,,22/08/2026 22:17
-43e49002-92be-4038-a0ac-189a7ffa3332,bars.dog,available,5.99,,high,low,4,name.com,,,
+43e49002-92be-4038-a0ac-189a7ffa3332,bars.dog,available,5.38,51.95,high,low,4,spaceship,,,29/09/2026 01:17
 8ec99fa6-5be2-4752-895e-b853f2c89b85,beryl.dog,available,7.49,64.99,medium,low,5,namesilo,,,23/09/2026 10:23
 8b813516-36ca-4d1a-be0e-855de8af5827,neatly.dog,available,5.98,86.98,high,low,6,namecheap,,,15/09/2026 16:16
 364cc2bc-f47d-4359-869c-54037225f339,unasked.dog,available,5.98,86.98,medium,low,7,namecheap,,,12/09/2026 01:10
@@ -481,11 +546,12 @@ c86e947a-1914-4df8-8b9e-26d9f0e18ab4,shaded.dog,available,5.98,86.98,medium,low,
 84baf3df-d42f-4ae6-893a-013061db67f3,bugbane.dog,available,5.98,86.98,medium,low,7,namecheap,,,18/09/2026 20:09
 40fee9c6-be20-4380-b5c2-ad3b894cb0aa,redial.dog,available,5.98,86.98,high,low,6,namecheap,,,16/09/2026 12:47
 5fd210d5-8614-46e7-99ae-315ea3bf8cf6,guilt.dog,available,5.99,,high,low,5,name.com,,,
+9ce2c007-6659-4496-8632-6e73995bee66,warmth.dog,available,5.38,51.95,high,low,6,spaceship,,,28/09/2026 11:06
 fc925392-c762-4b94-b1c8-7efab5179c9b,been.dog,available,5.99,,medium,low,4,name.com,,,
 eade6c59-b1dd-46bb-be1d-a1f771845b58,halle.dog,available,7.49,64.99,high,low,5,namesilo,,,27/09/2026 04:25
 c9a97395-72db-4485-9a48-1a17139e74fd,insouciant.dog,available,5.98,86.98,medium,low,10,namecheap,,,11/08/2026 20:34
 011fa239-6c54-47d0-8460-98dc9e69ef1a,gramophone.dog,available,7.49,64.99,medium,low,10,namesilo,,,17/09/2026 02:30
-36333e45-dac7-46f8-b367-d1000edd9290,specially.dog,available,5.99,,medium,low,9,name.com,,,
+36333e45-dac7-46f8-b367-d1000edd9290,specially.dog,available,7.49,64.99,medium,low,9,namesilo,,,28/09/2026 14:42
 ea7c7197-0eeb-4572-974a-8352333c8991,garbanzo.dog,available,7.49,64.99,medium,low,8,namesilo,,,24/09/2026 14:31
 8f82a802-ae25-469f-a821-d353161fd225,opulent.dog,available,5.98,86.98,high,low,7,namecheap,,,14/08/2026 00:58
 7e1676fc-42ed-441d-ad63-11d8a4d5a486,salient.dog,available,5.98,86.98,high,low,7,namecheap,,,09/09/2026 03:09
@@ -493,6 +559,7 @@ a968bcfb-d33d-4a90-ae9f-eb923c6a739a,angular.dog,available,7.49,64.99,high,low,7
 bf2c2e4f-0767-469a-991b-36a01599a55a,demolition.dog,available,7.49,64.99,high,low,10,namesilo,,,24/09/2026 21:50
 d7232003-2ff3-4977-80a6-8f5a5e030c5f,foamy.dog,available,5.98,86.98,high,low,5,namecheap,,,11/08/2026 07:20
 d6742d5b-0c69-4aac-8db5-a0d0ead627d8,balkans.dog,available,7.49,64.99,medium,low,7,namesilo,,,21/09/2026 22:15
+e975c122-ac3a-4532-8bf2-f835c95e7cde,navigate.dog,available,5.38,51.95,high,low,8,spaceship,,,28/09/2026 20:45
 2ce8642f-7163-4899-ab76-8a374258033d,cuttable.dog,available,5.98,86.98,medium,low,8,namecheap,,,12/08/2026 04:30
 ba969f1f-0b2b-4f5c-8757-728c05c249f6,inpatient.dog,available,7.49,64.99,medium,low,10,namesilo,,,20/09/2026 21:46
 8c972679-c642-4bc5-8684-8dfe255a33c1,deluxe.dog,available,5.99,83.99,high,low,6,name.com,,,13/08/2026 19:11
@@ -506,6 +573,7 @@ c51ae9fb-4a04-45ed-9363-d3b39729e137,alkali.dog,available,7.49,64.99,high,low,6,
 8762ee63-20b3-48ae-97cc-72cf4dc05cca,nyt.dog,available,5.99,,high,low,3,name.com,,,
 5567ec52-bb05-4f02-8371-4c7fd47a8a62,prolate.dog,available,5.98,86.98,medium,low,7,namecheap,,,15/08/2026 18:52
 00e78186-fab6-4ba1-bd6b-6e5935ebddc3,lessons.dog,available,5.98,86.98,high,low,7,namecheap,,,25/09/2026 19:53
+f565c928-39b0-484d-baf8-ff7c886a47df,presented.dog,available,5.98,86.98,medium,low,9,namecheap,,,28/09/2026 08:35
 a41a907f-c988-4886-b947-13c4666f4e86,colly.dog,available,5.98,86.98,medium,low,5,namecheap,,,14/08/2026 09:17
 b731f699-b9f9-49dd-97e1-711e59dfbcf3,roughly.dog,available,7.49,64.99,high,low,7,namesilo,,,21/09/2026 14:14
 f46b21eb-7a2b-4110-a639-522ee4da60ff,taller.dog,available,7.49,64.99,medium,low,6,namesilo,,,19/09/2026 00:16
@@ -516,6 +584,8 @@ f78db199-3404-43aa-aeeb-9525dca95b93,dentate.dog,available,5.98,86.98,medium,low
 719cdfa7-4165-4bae-b15d-b50c97f0b2ad,alluvium.dog,available,5.99,83.99,medium,low,8,name.com,,,18/09/2026 12:20
 4b1aa270-88fb-4b05-a4a1-cd214ab28173,goosefish.dog,available,7.49,64.99,medium,low,9,namesilo,,,18/09/2026 11:40
 d1b96c85-812e-4e14-b6e0-22fa5163de08,fatefully.dog,available,5.98,86.98,medium,low,9,namecheap,,,14/09/2026 17:53
+a480d7e8-756f-43f0-a29c-7cfcfd9f0a32,dolls.dog,available,5.38,51.95,medium,low,5,spaceship,,,28/09/2026 09:09
+4c966349-97f0-4b67-a1b7-b4118e0b0c1c,hendricks.dog,available,5.38,51.95,medium,low,9,spaceship,,,28/09/2026 08:45
 d702f9bb-3da7-4ff5-a4d5-231b153cbd8b,bawbee.dog,available,7.49,64.99,medium,low,6,namesilo,,,22/09/2026 16:46
 04526ea7-0c6f-4faf-9d61-289b7e84d469,amine.dog,available,7.49,64.99,high,low,5,namesilo,,,18/09/2026 21:41
 7b013fd0-b311-4578-934c-5b2c1cbe2bb7,darkening.dog,available,5.99,83.99,medium,low,9,name.com,,,13/08/2026 18:10
@@ -529,6 +599,8 @@ edad2017-874a-439e-a0a4-5d1fb2862e1b,african.dog,available,5.98,86.98,high,low,7
 bc3a38b0-45ff-49ee-a4c5-939f3bc42f39,passel.dog,available,5.98,86.98,medium,low,6,namecheap,,,25/08/2026 00:35
 c28eab42-613c-49c3-819a-252201afd1dc,reverent.dog,available,5.98,86.98,high,low,8,namecheap,,,20/08/2026 16:08
 61285f14-c500-440b-b22b-2143cc917605,atropine.dog,available,7.49,64.99,medium,low,8,namesilo,,,21/09/2026 01:00
+f790cf65-b094-47cf-93e8-9c0abd79102d,julio.dog,available,3.5,53.72,high,low,5,dynadot,,,29/09/2026 03:04
+c0b58b64-fda0-4d88-be2d-0db11ad3d83c,founder.dog,available,5.98,86.98,high,medium,7,namecheap,,,28/09/2026 13:40
 fdb1d9c3-2e27-4ba9-9cc1-08a3bc59a3ee,educate.dog,available,5.98,86.98,high,low,7,namecheap,,,27/09/2026 02:25
 dcc6a818-6f39-4cb7-bdb1-74c3a0283045,curse.dog,available,7.49,64.99,high,low,5,namesilo,,,24/09/2026 04:27
 bbed3a1e-1001-4973-97d5-60dd16e88db9,anima.dog,resell,,,high,medium,5,Dynadot Inc,18/07/2026 17:00,18/07/2027 17:00,26/09/2026 03:53
@@ -536,6 +608,7 @@ bbed3a1e-1001-4973-97d5-60dd16e88db9,anima.dog,resell,,,high,medium,5,Dynadot In
 f7455ab1-3f0f-4bf2-9c04-c6fbacab293c,polygonal.dog,available,5.98,86.98,medium,low,9,namecheap,,,08/09/2026 23:20
 08173dee-3445-4159-b380-9838ffb3f2bc,lions.dog,available,5.99,,high,low,5,name.com,,,
 21a12940-d3a5-486c-8f39-9bdaa8c91d2a,mime.dog,available,5.98,86.98,medium,low,4,namecheap,,,24/08/2026 23:33
+aee12cda-eade-428f-a616-2aa605f08683,slab.dog,available,3.6,52.01,high,low,4,porkbun,,,28/09/2026 20:30
 999a43b7-88fc-4905-948c-63df45e86e21,ungrateful.dog,available,5.98,86.98,medium,low,10,namecheap,,,11/09/2026 12:26
 7fd00d35-3af1-4664-b7b0-c6bfc3e584e8,infernal.dog,available,5.98,86.98,high,low,8,namecheap,,,10/08/2026 12:50
 d9d67d88-072d-472a-8a87-98716896d7ff,semifinal.dog,available,7.49,64.99,high,low,10,namesilo,,,16/09/2026 09:45
@@ -552,7 +625,7 @@ b6a2f0ba-a89f-4d48-a9ac-a027ec305203,unlined.dog,available,5.98,86.98,medium,low
 5892a094-15e1-414a-9730-c705c120cc2a,jingling.dog,available,5.98,86.98,high,low,8,namecheap,,,08/09/2026 03:33
 7742eff0-eef1-48b6-a4f4-7a17c6e8bfc6,yobo.dog,available,5.98,86.98,medium,low,4,namecheap,,,11/08/2026 08:48
 670e2230-71d8-4006-96f2-09c15ea1645d,contaminated.dog,available,5.99,,medium,low,12,name.com,,,
-aaa49127-4500-4c2e-abcf-c16e70517312,brass.dog,available,5.99,,high,low,5,name.com,,,
+aaa49127-4500-4c2e-abcf-c16e70517312,brass.dog,available,5.38,51.95,high,low,5,spaceship,,,29/09/2026 03:59
 47f36793-7dde-456c-9633-6e614b3a11d5,immensely.dog,available,5.98,86.98,high,low,9,namecheap,,,15/09/2026 01:58
 ad8ded8b-2eb1-4c7a-8409-9db493d25dfe,levodopa.dog,available,7.49,64.99,high,low,8,namesilo,,,23/09/2026 07:46
 3342e602-4540-40e6-ad80-321bf3a88ae2,amyloid.dog,available,5.98,86.98,medium,low,7,namecheap,,,
@@ -566,33 +639,38 @@ d276de7b-6c3a-4a3c-b0f2-c3249080f77b,rings.dog,available,7.49,64.99,high,low,5,n
 debf140f-5098-49b6-ad0b-5f154af142da,voltaire.dog,available,5.98,86.98,high,low,8,namecheap,,,20/09/2026 08:29
 2817c54c-1495-49ff-9bf9-6e9af6d434a1,sunbaked.dog,available,5.98,86.98,medium,low,8,namecheap,,,
 b488f4d6-3878-458a-9f95-2fe54c8dbbbc,champaign.dog,available,5.98,86.98,medium,low,9,namecheap,,,08/09/2026 20:30
+3500bfb8-f464-4aaa-9b44-b7f6dc592089,colton.dog,available,7.49,64.99,medium,low,6,namesilo,,,29/09/2026 00:04
 aa2dfa39-8ce5-4f92-852e-b8e6c7ad9053,stewardess.dog,available,7.49,64.99,high,low,10,namesilo,,,17/09/2026 22:26
 53c9bd8e-4057-41ef-8168-41c4f863725f,uneven.dog,available,5.98,86.98,high,low,6,namecheap,,,04/09/2026 00:48
 58277c25-ba14-40fa-96f8-4d67d47dc69e,alkahest.dog,available,7.49,64.99,medium,low,8,namesilo,,,18/09/2026 03:42
 5515f203-02aa-4201-955e-d5b0c2cae009,verbs.dog,available,5.99,,medium,low,5,name.com,,,
 b520fe8c-3b40-42dc-a094-9477572487c7,sultrily.dog,available,5.98,86.98,medium,low,8,namecheap,,,16/09/2026 01:00
 d9f84b54-dd9c-466b-b3ab-0fcbaf06cdd8,glassless.dog,available,5.98,86.98,medium,low,9,namecheap,,,20/08/2026 14:11
-983df6a5-2ec1-45f1-94f4-0dff94fd2ce2,yawn.dog,available,5.99,,high,low,4,name.com,,,
+983df6a5-2ec1-45f1-94f4-0dff94fd2ce2,yawn.dog,available,50.2,50.2,medium,low,4,cloudflare,,,28/09/2026 11:12
 476a3af8-22ea-4df6-95ac-3d9e4e944472,containers.dog,available,7.49,64.99,medium,low,10,namesilo,,,19/09/2026 01:32
 4b379895-34f8-4c96-8536-002d254aee71,ascii.dog,available,7.49,64.99,high,low,5,namesilo,,,18/09/2026 20:43
 0c895294-3b27-46b4-bb76-2b04a4ec60ad,mutagenic.dog,available,5.98,86.98,medium,low,9,namecheap,,,03/09/2026 11:37
+c9825b61-03c8-40da-bd04-32910d38d49e,finishes.dog,available,50.2,50.2,medium,low,8,cloudflare,,,28/09/2026 18:11
 b7a02255-8a86-4b13-9433-71a552df9e2b,gears.dog,available,5.99,,medium,low,5,name.com,,,
 e16ef0a7-0ffa-4e89-8407-4248cf68b92c,clxv.dog,available,5.98,86.98,medium,low,4,namecheap,,,
 912bb6e2-1c30-4659-bdc2-02b70fc8a9f1,stepped.dog,available,5.98,86.98,high,low,7,namecheap,,,25/09/2026 18:05
+d2a2e912-2f54-4a27-8fe3-9b2c4016f061,guarding.dog,available,5.38,51.95,medium,low,8,spaceship,,,28/09/2026 12:47
 abfb974e-880b-46b2-9cec-6eeabf1d4a29,wrought.dog,available,5.98,86.98,medium,low,7,namecheap,,,25/08/2026 03:48
 9f458d55-d316-422d-806e-90b4b825839b,antidotal.dog,available,5.98,86.98,medium,low,9,namecheap,,,
 bd9f7967-fa69-4a04-bfea-aff72e53e69d,unwitting.dog,available,5.98,86.98,medium,low,9,namecheap,,,12/09/2026 14:24
-dcd694bb-fab4-4f53-b711-fd6f5591575e,wedge.dog,available,5.99,,high,low,5,name.com,,,
+dcd694bb-fab4-4f53-b711-fd6f5591575e,wedge.dog,available,7.49,64.99,medium,low,5,namesilo,,,28/09/2026 13:53
+de800e11-a037-4d8e-9075-8a3a5a09de48,susie.dog,available,5.38,51.95,medium,low,5,spaceship,,,28/09/2026 16:25
 f21e789f-1cd9-4397-800c-b5c6dc4b92b8,achondrite.dog,available,7.49,64.99,medium,low,10,namesilo,,,17/09/2026 00:54
 3f290005-704b-4914-9dab-1135557c3300,thrashing.dog,available,5.98,86.98,medium,low,9,namecheap,,,13/09/2026 07:54
 3da90f44-8439-4277-91a9-4e0a44676281,patton.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 16:06
 79216478-edbb-47ad-9950-6a61cc3db7b9,spoil.dog,available,5.98,86.98,high,low,5,namecheap,,,09/09/2026 08:16
 0ae40ea4-f716-46fc-a9a3-c33f1ab5cc90,androgenic.dog,available,5.98,86.98,medium,low,10,namecheap,,,
-6a78b23a-9105-4193-822d-8f5fa8b35ca8,ideally.dog,available,5.99,,high,low,7,name.com,,,
+6a78b23a-9105-4193-822d-8f5fa8b35ca8,ideally.dog,available,5.98,86.98,medium,low,7,namecheap,,,28/09/2026 15:16
 309c390a-4d27-4804-98d9-3b53f259f28f,alienage.dog,available,7.49,64.99,medium,low,8,namesilo,,,18/09/2026 07:33
 31119cd5-b5e4-4f76-81e9-475651fcb710,choky.dog,available,5.98,86.98,medium,low,5,namecheap,,,12/08/2026 06:42
 fd8adb50-1870-4a57-b158-6eb7dba0e7d1,biracial.dog,available,5.98,86.98,high,low,8,namecheap,,,10/08/2026 05:42
 b2287fa6-bed5-4baf-a599-51001f676458,dropping.dog,available,5.98,86.98,high,low,8,namecheap,,,14/08/2026 19:47
+86df6dd1-4e2d-4f39-aca5-a85a3e3fe3d1,utc.dog,available,7.49,64.99,medium,low,3,namesilo,,,28/09/2026 09:27
 f80a88f9-a22f-4522-a419-d1bd35f11044,dishonour.dog,available,5.99,,medium,low,9,name.com,,,
 58fb218d-25f0-4c32-865d-d3c9f0a38b62,scooped.dog,available,7.49,64.99,medium,low,7,namesilo,,,17/09/2026 23:31
 c9f078b5-354c-448d-bbc7-8b936a0d7889,dishonest.dog,available,5.98,86.98,medium,low,9,namecheap,,,11/08/2026 03:44
@@ -604,10 +682,12 @@ ec8b2459-b8fc-4cb5-8bbf-d4eb8ebe24a9,misconduct.dog,available,7.49,64.99,medium,
 e590f76f-b470-4bd6-ac20-986e29ce7ea8,tks.dog,available,5.99,,high,low,3,name.com,,,
 19b22cef-e6f6-4611-9537-ab72cc468e2f,orchestra.dog,available,5.99,,high,low,9,name.com,,,
 0d2ffc88-c379-4797-b067-5f31d43726bb,audile.dog,available,5.98,86.98,medium,low,6,namecheap,,,07/08/2026 16:40
+22a31281-e922-4324-baee-324d901430d7,bret.dog,available,5.98,86.98,medium,low,4,namecheap,,,29/09/2026 03:55
 256a7557-aa82-4bf8-b703-18c0436f1211,hinterland.dog,available,7.49,64.99,high,low,10,namesilo,,,21/09/2026 14:33
+e3b079ab-dc52-4281-88f0-d9b369c2113d,endorsement.dog,available,7.49,64.99,high,low,11,namesilo,,,29/09/2026 04:49
 eb8746a0-4e56-48b9-871b-9e2e013dd726,whirring.dog,available,5.98,86.98,medium,low,8,namecheap,,,13/09/2026 11:28
 dfb85976-b392-47d6-b806-2a34d13b6e71,nescient.dog,available,5.98,86.98,medium,low,8,namecheap,,,21/08/2026 18:29
-e208b974-a7b5-42a9-819d-51fa8fd41e9b,wrist.dog,available,5.99,,high,low,5,name.com,,,
+e208b974-a7b5-42a9-819d-51fa8fd41e9b,wrist.dog,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 22:18
 69421048-e370-44b9-a30d-158fad480b97,winy.dog,available,5.98,86.98,medium,low,4,namecheap,,,13/09/2026 12:25
 315617ac-941e-42fc-95dc-39e6f92c3bb8,validated.dog,available,5.98,86.98,high,low,9,namecheap,,,13/09/2026 00:59
 c7d7a2d0-e307-46e7-a757-02f5e595357a,gaunt.dog,available,5.98,86.98,medium,low,5,namecheap,,,10/08/2026 18:54
@@ -615,11 +695,13 @@ f9a21cc7-e229-4c35-8aa0-883f20ce1133,clerical.dog,available,5.98,86.98,high,low,
 da28a6d7-c594-48f8-87c4-253be4362c48,rockwell.dog,available,7.49,64.99,high,low,8,namesilo,,,27/09/2026 04:54
 f36ae76a-0b94-4c35-ad57-e4742a4cc681,toothless.dog,available,5.98,86.98,high,low,9,namecheap,,,11/09/2026 17:15
 63947c25-c43b-409c-b042-ebb2011ea4ad,race.dog,premium,500,,high,low,4,name.com,,,27/09/2026 17:26
+95dc82cc-8822-440b-bef2-6e234749474b,skins.dog,available,3.6,52.01,high,low,5,porkbun,,,29/09/2026 05:06
 4f610223-b6d5-4648-a669-cbb6c2633f0b,caesium.dog,available,7.49,64.99,medium,low,7,namesilo,,,20/09/2026 23:16
 4dd556d5-0197-4a94-bcc0-0a213f6a849e,testimony.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 02:23
 404bc01a-e2ea-4734-9039-6d5a7c86dc25,glittering.dog,available,5.98,86.98,high,low,10,namecheap,,,
 c83e7b7e-2b6d-44f1-a8ab-586ed67d6e53,proven.dog,available,7.49,64.99,high,low,6,namesilo,,,27/09/2026 08:25
 8b2af829-65d2-45d1-bb13-6eaa2bb71a2a,disappointment.dog,available,5.99,,medium,low,14,name.com,,,
+3329a541-b5f0-41be-82f9-bc69dd208cf4,lau.dog,available,50.2,50.2,medium,low,3,cloudflare,,,28/09/2026 07:25
 520ce7a8-7e3a-4c1c-ac7b-5f361cf33608,dingdong.dog,available,5.98,86.98,high,low,8,namecheap,,,14/09/2026 12:47
 0783f6aa-fab3-43b6-a8ac-fd3626d16885,gruff.dog,available,5.98,86.98,high,low,5,namecheap,,,13/08/2026 11:25
 45bd2ff3-9b38-4d9f-9f70-57520e0f6428,vector.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 15:10
@@ -627,8 +709,9 @@ c83e7b7e-2b6d-44f1-a8ab-586ed67d6e53,proven.dog,available,7.49,64.99,high,low,6,
 8f33f3f7-4a4a-4590-a341-3f0f45125b3c,asmera.dog,available,7.49,64.99,medium,low,6,namesilo,,,20/09/2026 14:30
 f3f8f54b-bcb0-4c66-87a5-eefa40bcd214,tautly.dog,available,7.49,64.99,medium,low,6,namesilo,,,16/09/2026 08:09
 f589c0be-2854-4541-a4d9-61fd0cb2f23c,shutting.dog,available,5.98,86.98,medium,low,8,namecheap,,,12/08/2026 12:22
+38f41ae9-ad1d-4573-8ba8-5c2e0b47f0a2,ata.dog,available,50.2,50.2,medium,low,3,cloudflare,,,28/09/2026 11:37
 f9073eea-8116-4c86-a4c7-a0cae14bc083,churl.dog,available,5.98,86.98,medium,low,5,namecheap,,,13/08/2026 05:00
-5aac3efb-d1d0-4d79-a03e-b6662fb98c6f,digital.dog,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/01/2026 15:15,29/01/2027 15:15,26/09/2026 05:33
+5aac3efb-d1d0-4d79-a03e-b6662fb98c6f,digital.dog,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/01/2026 15:15,29/01/2027 15:15,28/09/2026 15:01
 7a5a5bfa-1322-4815-af1e-71c0f965aa7d,glare.dog,available,5.98,86.98,high,low,5,namecheap,,,24/09/2026 10:22
 a245c13f-aff1-46a0-bf7a-018413ef67af,innovation.dog,available,5.38,51.95,high,medium,10,spaceship,,,28/09/2026 03:06
 64fac3ac-49ee-47d4-b875-5d550bb546e6,previous.dog,available,5.99,,high,low,8,name.com,,,
@@ -639,12 +722,16 @@ f39f0492-233a-4e22-92d5-0f003910ccbf,quarterly.dog,available,5.98,86.98,high,low
 f235be5f-58a7-4c53-aea6-69178f37c0fe,bribable.dog,available,5.98,86.98,low,low,8,namecheap,,,11/08/2026 03:42
 60b4b97b-384b-45fc-a4e0-5115edf9db79,mediate.dog,available,5.98,86.98,high,low,7,namecheap,,,21/08/2026 23:37
 af5a3740-2b5d-4486-8548-e3287037d0f7,ingenuity.dog,available,5.98,86.98,high,low,9,namecheap,,,24/09/2026 15:35
+d93f375c-614a-4132-8cdd-0a3389197ebb,sabrina.dog,available,5.38,51.95,medium,low,7,spaceship,,,29/09/2026 04:05
 519dd5a3-49c3-4d6d-8599-68a252ac8043,damning.dog,available,5.99,83.99,medium,low,7,name.com,,,13/08/2026 16:33
+4d8faff8-57aa-4ca3-accb-268864be4c69,dynasty.dog,available,5.38,51.95,high,low,7,spaceship,,,28/09/2026 13:57
 18911547-2900-48cf-92a9-a3f89f2660f7,asio.dog,available,7.49,64.99,medium,low,4,namesilo,,,20/09/2026 14:18
+00084a2e-4e39-4c31-864e-1bc81c8e69fd,convertible.dog,available,5.98,86.98,medium,low,11,namecheap,,,28/09/2026 15:45
 1811ff9c-7fc1-4e90-9574-1c1a07a3c1c5,blades.dog,available,5.99,,high,low,6,name.com,,,
 11dcf030-5c41-4944-a2b2-6466dd7dd7c3,mislabeled.dog,available,5.98,86.98,medium,low,10,namecheap,,,25/08/2026 01:21
 ea5fc340-49e1-4495-b8b3-9479498db1a2,cindy.dog,available,5.99,,high,low,5,name.com,,,
 25b3a87f-a64f-4b1b-9215-38f2ead4d9ca,coverage.dog,available,5.99,,high,low,8,name.com,,,
+e6701e31-4eef-4168-a6cf-15cdb8be9a1e,mathew.dog,available,5.38,51.95,medium,low,6,spaceship,,,28/09/2026 16:30
 40b7313d-6af4-4984-a1d2-1800ba625b18,ascendent.dog,available,5.98,86.98,medium,low,9,namecheap,,,
 32a1d427-c169-4d88-ba9b-df72c8d1e8d8,baudelaire.dog,available,7.49,64.99,high,low,10,namesilo,,,22/09/2026 16:35
 b17eb5a5-96ad-47bf-88cd-5a18f397cc70,warrant.dog,available,5.98,86.98,high,low,7,namecheap,,,08/09/2026 08:40
@@ -656,6 +743,7 @@ d9a89303-22c3-4192-a2dc-d9384fe9c36f,prejudice.dog,available,5.98,86.98,high,low
 ab23a0c1-0265-46cb-bd60-2cb14f850bf5,surfaces.dog,available,5.99,,medium,low,8,name.com,,,
 6937d81d-7cb5-410b-a80a-44b30eccdbe7,crumb.dog,available,5.98,86.98,medium,low,5,namecheap,,,11/08/2026 09:20
 db4486d2-89cb-4c17-b965-a0b335cde00b,spousal.dog,available,5.98,86.98,high,low,7,namecheap,,,11/08/2026 03:56
+0fcc9b76-4341-433c-b217-86603d1140ce,becker.dog,available,7.49,64.99,high,low,6,namesilo,,,29/09/2026 03:35
 296bc08a-7f86-4e31-9b0f-2e4fe78ad767,figural.dog,available,5.98,86.98,medium,low,7,namecheap,,,18/08/2026 03:51
 83932b97-8b7d-4ee7-9cbe-02edc5f6abd8,quixotic.dog,available,5.98,86.98,medium,low,8,namecheap,,,09/09/2026 09:04
 b3153f9e-21dc-4e45-87b7-8c0d48f8a035,elimination.dog,available,7.49,64.99,high,low,11,namesilo,,,28/09/2026 02:39
@@ -667,7 +755,6 @@ a06376a5-647e-4dc3-b99c-a785461274a6,ball.dog,resell,,,high,low,4,Dynadot Inc,22
 6e6d0341-c4f2-424d-b334-0b9c3aad3005,introductions.dog,available,7.49,64.99,medium,low,13,namesilo,,,20/09/2026 22:09
 1fecedd9-5afa-4e14-9398-524a0933d792,sacking.dog,available,5.98,86.98,medium,low,7,namecheap,,,21/09/2026 18:04
 a1040816-9878-462d-a650-7f9160598624,colony.dog,available,5.38,51.95,high,low,6,spaceship,,,27/09/2026 12:41
-e7da21d4-fa96-4938-8cb1-a1aaf0219d95,athletics.dog,available,,,high,medium,9,,,,
 c674f074-1bd5-44a9-9fe2-4a77e25d6537,barbarous.dog,available,5.98,86.98,medium,low,9,namecheap,,,08/08/2026 15:40
 4b6e3d03-c150-4678-b516-9d9c892be491,bodied.dog,available,5.98,86.98,medium,low,6,namecheap,,,10/08/2026 16:44
 b623527f-71b1-45d0-8a72-13acd54a246d,bumbling.dog,available,5.98,86.98,medium,low,8,namecheap,,,11/08/2026 09:34
@@ -709,12 +796,15 @@ ac3bf5a2-eb51-4d65-b8c2-f95b3262c21e,sundown.dog,available,5.98,86.98,high,low,7
 40bb2136-6709-4616-af1c-03ef807fdcbd,textile.dog,available,5.38,51.95,high,low,7,spaceship,,,28/09/2026 02:25
 59ffd164-8691-47a0-bc7a-cea47f6da685,irritate.dog,available,5.99,,medium,low,8,name.com,,,
 0f8a9dbe-f9d1-4352-b921-1220ca3a9877,acclaim.dog,available,7.49,64.99,high,low,7,namesilo,,,16/09/2026 22:32
+ae5ca891-5708-4e8e-b221-14c0e8a5109b,creed.dog,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 18:43
 ba2dd9cf-f883-45b3-a276-bea1e912eedc,hail.dog,available,7.49,64.99,high,low,4,namesilo,,,16/09/2026 22:38
 84d1d64e-4a59-4e50-a25b-1bab18ece75f,anointer.dog,available,7.49,64.99,medium,low,8,namesilo,,,19/09/2026 11:18
 099258c2-0240-43f7-ab19-768b3e309e4c,analytical.dog,available,5.98,86.98,medium,low,10,namecheap,,,
 48d62aec-6e98-4706-8424-edaf459eec3f,ampersand.dog,available,7.49,64.99,high,low,9,namesilo,,,18/09/2026 23:09
+25017360-1956-419e-a98a-aa1b8c0132aa,motto.dog,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 13:39
 df4e03c3-8e38-490b-8053-9667409fb897,moonlit.dog,available,5.98,86.98,high,low,7,namecheap,,,25/08/2026 05:56
 fe2a10e0-1a73-4705-90b5-1ee5a5e7db64,college.dog,premium,500,,high,low,7,name.com,,,
+8fae2e08-581f-43c3-bef3-e37c051aac62,swallowed.dog,available,50.2,50.2,low,low,9,cloudflare,,,28/09/2026 23:16
 04e5b6b6-adf5-4e2a-8d3d-ce7d5daa1683,opened.dog,available,5.98,86.98,high,low,6,namecheap,,,04/09/2026 16:13
 e86dbbc6-6a83-44c0-bb8f-9a7554227410,hoarse.dog,available,5.98,86.98,medium,low,6,namecheap,,,21/08/2026 10:10
 a7162686-1def-4617-b422-10cfe317c854,mick.dog,available,3.6,52.01,high,low,4,porkbun,,,28/09/2026 02:25
@@ -732,7 +822,7 @@ a0b3fdcc-803c-469a-ab3e-6c88ba739b18,billion.dog,available,7.49,64.99,high,low,7
 ffeac692-7760-47d6-a595-31a31a70e320,deuce.dog,available,5.98,86.98,high,low,5,namecheap,,,21/09/2026 12:17
 d145b545-4a8f-4f33-b0ec-5e87f4f451a0,caught.dog,available,5.99,,high,low,6,name.com,,,
 eb3b314f-7143-406b-bc56-590ca965f609,lunched.dog,available,7.49,64.99,medium,low,7,namesilo,,,21/09/2026 04:17
-08f8f383-4c31-4152-b52e-5dc530b0fe5a,version.dog,available,5.99,,high,low,7,name.com,,,
+08f8f383-4c31-4152-b52e-5dc530b0fe5a,version.dog,available,5.38,51.95,high,low,7,spaceship,,,28/09/2026 18:17
 59132101-9194-449c-bfc5-a6a5823c60c5,transeunt.dog,available,5.98,86.98,medium,low,9,namecheap,,,11/09/2026 18:53
 a3a903a4-1ee0-4573-93b9-fb4914140ef5,overjoy.dog,available,5.99,,high,low,7,name.com,,,
 95d0e97b-9ca9-4b12-aa99-63e12c8e5a10,heatless.dog,available,5.98,86.98,medium,low,8,namecheap,,,21/08/2026 02:27
@@ -746,11 +836,15 @@ bd7c7af2-5055-49c8-9888-71ed37d16451,relevant.dog,available,5.98,86.98,high,low,
 227a1e5d-c010-491f-b666-2212d4eee627,nineties.dog,available,7.49,64.99,medium,low,8,namesilo,,,16/09/2026 12:01
 acf5937d-e5e7-40e5-a7e7-224eee0ec8d8,palestine.dog,available,,,high,high,9,,,,
 ad7889ed-6ded-46a2-8aae-37b99bc23684,lightsome.dog,available,5.98,86.98,high,low,9,namecheap,,,10/08/2026 14:41
+ee46c936-19a9-40f0-ba9c-41a508999ede,pornography.dog,available,7.49,64.99,medium,low,11,namesilo,,,28/09/2026 12:37
 7d63d578-4ca7-4ef8-a0d8-ac811ec7e78f,absent.dog,available,5.98,86.98,high,low,6,namecheap,,,21/09/2026 14:37
+eb1f0e91-1ea7-4f58-83d5-4ff7832e88ba,precision.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 15:06
 e26be72c-3398-481d-9e33-8cc61cbfaa76,wisdoms.dog,available,5.98,86.98,medium,low,7,namecheap,,,21/09/2026 10:19
 5a0c580d-f6ee-4f3e-847a-3d0bb0350612,punily.dog,available,5.98,86.98,low,low,6,namecheap,,,15/09/2026 22:01
+0881d645-5ac8-4552-80d0-97a3d876c521,fairview.dog,available,5.38,51.95,medium,low,8,spaceship,,,28/09/2026 16:52
 7165ed38-6e75-4517-aa5b-594d1830bf47,nescience.dog,available,5.98,86.98,medium,low,9,namecheap,,,12/09/2026 14:26
 1634f1a9-d5a2-4602-b550-80efea61a061,restlessly.dog,available,5.98,86.98,medium,low,10,namecheap,,,15/09/2026 23:29
+ffb5055f-1dec-4689-881a-c8d8c9644ddc,correction.dog,available,7.49,64.99,high,low,10,namesilo,,,28/09/2026 09:23
 67c4187a-b27d-4228-bec2-6af794b8d133,tedious.dog,available,7.49,64.99,medium,low,7,namesilo,,,23/09/2026 00:32
 f1361d1b-85a3-4ffa-b85b-1f06a50d8a2c,wedded.dog,available,5.98,86.98,high,low,6,namecheap,,,13/09/2026 09:30
 80511398-9e09-4f8a-84f3-9f348ceb4d5c,ovine.dog,available,5.98,86.98,medium,low,5,namecheap,,,04/09/2026 22:07
@@ -766,6 +860,7 @@ b1f7841f-2f0b-4536-86ae-7eb163ccbfc6,untracked.dog,available,5.98,86.98,medium,l
 1eb583c9-0d41-46df-bcbd-d757ee8ff91e,consoling.dog,available,5.98,86.98,high,low,9,namecheap,,,12/08/2026 22:42
 4e68680b-b49c-4114-a4ce-c90ed2f895ce,corvine.dog,available,5.98,86.98,medium,low,7,namecheap,,,13/08/2026 02:37
 01811545-2da1-4ca7-a76a-8f28bb16b493,ablation.dog,available,7.49,64.99,medium,low,8,namesilo,,,16/09/2026 16:05
+3d568251-42fb-40f9-85aa-3d6ecbdf1bae,vengeance.dog,available,7.49,64.99,medium,low,9,namesilo,,,28/09/2026 11:03
 b34cd2b1-fc94-4a8e-8296-4837cdca517f,carols.dog,available,5.98,86.98,medium,low,6,namecheap,,,17/09/2026 18:54
 49a8a5ae-e9b4-44f4-844e-7d9b02369b78,distinction.dog,available,5.99,,high,low,11,name.com,,,
 c62006b0-0f72-477e-81bb-7f02a2d608b4,english.dog,premium,242,242,high,low,7,namesilo,,,24/09/2026 14:01
@@ -775,6 +870,7 @@ def095a1-58a0-48c8-b80e-29d55d732720,spider.dog,available,7.49,64.99,high,low,6,
 fb26ae59-a7da-40ee-a952-15b421ae1cbb,dreamless.dog,available,5.98,86.98,medium,low,9,namecheap,,,14/08/2026 18:43
 7126585f-796b-4223-9c75-dbd29a62e7ac,stainless.dog,available,5.98,86.98,high,low,9,namecheap,,,10/09/2026 18:15
 687ee9c2-e2cf-45b6-a846-973b90c3bfa5,put.dog,available,7.49,64.99,high,low,3,namesilo,,,25/09/2026 13:13
+d3f966ee-93c7-4af5-94b7-142ead2beea7,oppenheimer.dog,available,5.98,86.98,medium,low,11,namecheap,,,28/09/2026 21:40
 3bb7eb41-dfad-48d0-b4f5-f1de08787796,handled.dog,available,5.98,86.98,high,low,7,namecheap,,,20/08/2026 23:28
 7b9b0190-3286-405c-90a3-859155939858,banshee.dog,available,7.49,64.99,high,low,7,namesilo,,,22/09/2026 03:09
 3843eec1-9eae-4375-96c4-7b9a149ddd65,atkins.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 17:28
@@ -795,7 +891,10 @@ c5f0dc87-6e3b-43ea-8e93-064b3910ad93,katari.dog,available,5.98,86.98,medium,low,
 50c73435-eb66-4939-bea7-110742f39540,ellen.dog,available,5.99,,high,low,5,name.com,,,
 b539e29c-cefa-4de5-8510-5eb0aff7ad2a,embracing.dog,available,5.99,,high,low,9,name.com,,,
 191dfafa-c2a6-4114-bbc5-42ee9f6ee9e6,paneled.dog,available,5.98,86.98,high,low,7,namecheap,,,05/09/2026 00:50
+0e775485-2cbe-4885-bb95-c88c49a3b663,sire.dog,available,7.49,64.99,high,low,4,namesilo,,,28/09/2026 14:08
+b13a5e0f-842b-45b1-9c59-c91d351e901d,foote.dog,available,3.5,53.72,medium,low,5,dynadot,,,28/09/2026 08:03
 7f8adda6-7bb1-499f-a7be-56488540f560,armilla.dog,available,7.49,64.99,medium,low,7,namesilo,,,20/09/2026 07:02
+2c2315cd-5325-4e2c-94a0-15b8abbaef19,span.dog,available,7.49,64.99,high,low,4,namesilo,,,29/09/2026 00:16
 fa2ca489-a91e-4634-a28e-5d57941d7bf8,firstborn.dog,available,5.98,86.98,high,low,9,namecheap,,,16/08/2026 02:17
 3b522bc7-0404-4f13-8ad1-efe614e37a9a,roily.dog,available,5.98,86.98,medium,low,5,namecheap,,,09/09/2026 18:18
 492894d6-ef47-4534-b733-bf855a448b36,drily.dog,available,5.98,86.98,medium,low,5,namecheap,,,14/09/2026 14:23
@@ -806,21 +905,27 @@ d4cb537e-4157-4a86-be75-b22e5513bbdd,arikara.dog,available,7.49,64.99,medium,low
 a573a48c-9745-49df-948e-89b1cf12ac76,cuboid.dog,available,5.98,86.98,medium,low,6,namecheap,,,13/08/2026 09:58
 de41f1b1-0ba5-447e-a6ff-5d476079960b,transonic.dog,available,5.98,86.98,medium,low,9,namecheap,,,10/09/2026 14:11
 060dc633-a26a-4b6e-9234-a1766126c8d6,verbally.dog,available,7.49,64.99,medium,low,8,namesilo,,,16/09/2026 10:50
+eb9e3eb6-1022-4081-bc78-2ada7bbfcdcd,vagina.dog,available,7.49,64.99,high,low,6,namesilo,,,28/09/2026 15:31
 2545f10b-a772-444b-99a4-4e79ed8e5ed4,jersey.dog,available,,,high,high,6,,,,
+1679ea14-6c5a-424b-97f1-78d08b3325ff,tracey.dog,available,5.38,51.95,medium,low,6,spaceship,,,28/09/2026 21:51
+95ebb2b8-436d-494f-aa66-6d47537ca9ec,delgado.dog,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 17:40
 05f1a0c9-3937-4bb0-a8a4-301d26a2dcb4,reputedly.dog,available,5.98,86.98,medium,low,9,namecheap,,,15/09/2026 23:20
 34aa7e1f-f4c3-47b9-95e6-9bfb77cb2e65,alewife.dog,available,7.49,64.99,medium,low,7,namesilo,,,18/09/2026 05:44
 be90a8c0-4123-46ce-94b3-7ed90df8cda5,hierarchic.dog,available,5.98,86.98,medium,low,10,namecheap,,,21/08/2026 08:20
 8fa6851d-3fab-4d2f-b9e9-a99e47e00ab3,mule.dog,available,3.6,52.01,high,low,4,porkbun,,,28/09/2026 06:56
 b49158c1-24c4-417a-b7fd-5f0d1cd93bff,writhing.dog,available,5.98,86.98,medium,low,8,namecheap,,,13/09/2026 13:45
 5d6c5d60-fc95-4c0a-ab32-985547e18456,berberis.dog,available,7.49,64.99,high,low,8,namesilo,,,23/09/2026 09:08
+edc729ed-47ee-4db2-9606-c0918a26eb2d,farr.dog,available,7.49,64.99,medium,low,4,namesilo,,,28/09/2026 22:15
 c20e92f5-5028-4033-84f4-fc7fcef9d9da,squalls.dog,available,5.98,86.98,low,low,7,namecheap,,,20/09/2026 14:16
 b14fa9e7-50ea-4c96-9529-2934fef5cdec,yogurt.dog,available,7.49,64.99,high,low,6,namesilo,,,28/09/2026 02:43
 0f62e875-d7c6-48da-b4b3-ae1de2b060ed,overside.dog,available,5.98,86.98,medium,low,8,namecheap,,,15/09/2026 18:29
 302a7a22-c18e-4980-af56-e350ec1a450d,signally.dog,available,5.98,86.98,medium,low,8,namecheap,,,16/09/2026 01:49
 8c14f51c-f808-4ad9-9f27-9ae024aae01e,adoration.dog,available,7.49,64.99,high,low,9,namesilo,,,17/09/2026 09:44
+e787a2a1-c589-4b41-8134-3d53221d6b01,significance.dog,available,7.49,64.99,high,low,12,namesilo,,,28/09/2026 08:20
 558773ee-34d8-4dad-879a-d959abe79ed4,definition.dog,available,5.99,,high,low,10,name.com,,,
 bd91af37-9a76-4978-80b7-cbd66ffd3867,release.dog,available,5.98,86.98,high,low,7,namecheap,,,24/09/2026 21:38
 e94daaec-e537-4039-9e35-8809101c46d9,denny.dog,available,7.49,64.99,high,low,5,namesilo,,,25/09/2026 15:22
+b2962a70-eb3c-4af2-bf73-244b6282254e,exile.dog,available,5.38,51.95,high,low,5,spaceship,,,28/09/2026 18:57
 6a9e9c9d-40f8-48c7-8dfd-8909e892d4a5,neolithic.dog,available,5.98,86.98,medium,low,9,namecheap,,,03/09/2026 15:25
 b761578b-c5d2-4ef8-aa2e-04e98815b733,diffident.dog,available,5.98,86.98,medium,low,9,namecheap,,,14/08/2026 07:01
 a8101953-63fb-4af0-a60b-8bd4d8028b42,mercurial.dog,available,5.98,86.98,high,low,9,namecheap,,,17/08/2026 12:50
@@ -858,6 +963,7 @@ fab08985-98e0-4ff2-812a-d42dd862d3a9,accretion.dog,available,7.49,64.99,high,low
 16a78f6f-73a0-4b5c-a4a2-eb3e45dc6f90,unpressed.dog,available,5.98,86.98,medium,low,9,namecheap,,,12/09/2026 17:24
 8a25d19c-775b-4418-9882-c48cd727d7a7,mesolithic.dog,available,5.98,86.98,medium,low,10,namecheap,,,24/08/2026 21:17
 795caef7-eff5-4bb3-a81e-10296a6327ed,abstruse.dog,available,5.98,86.98,medium,low,8,namecheap,,,
+9c751095-4f3a-4229-9801-174e418b8377,roswell.dog,available,50.2,50.2,medium,low,7,cloudflare,,,28/09/2026 15:16
 51a8c023-12ab-4b12-966b-5fe525e5980a,oxfam.dog,available,5.99,,high,low,5,name.com,,,
 51e63129-c8d6-4620-bfaf-a435065e30df,dependance.dog,available,7.49,64.99,medium,low,10,namesilo,,,17/09/2026 06:55
 6fbf7056-10a6-41f0-846c-5a8d566fa2cd,adviseable.dog,available,5.99,,medium,low,10,name.com,,,
@@ -867,13 +973,14 @@ d8bcabae-e88b-4f62-9e8e-6fbcd7a92153,gaga.dog,available,5.98,86.98,medium,low,4,
 f532e1ac-99e4-4df2-95ca-0f84488c6a09,trumpet.dog,available,5.98,86.98,high,low,7,namecheap,,,24/09/2026 18:17
 c86b693e-328e-4ea9-b4db-f163e2d694a6,torrential.dog,available,5.98,86.98,medium,low,10,namecheap,,,11/09/2026 17:57
 65da8e2e-cc48-42af-83e7-c86148f95678,zionist.dog,available,5.98,86.98,high,low,7,namecheap,,,13/09/2026 15:21
+b04f8d82-056a-437d-bd14-1a93a9923958,directors.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 08:43
 c0bbd3ff-04d8-4b87-a779-0b1c5291ea38,amuck.dog,available,5.98,86.98,medium,low,5,namecheap,,,
 c107e392-b26b-4aea-bac4-77439a1723ef,remains.dog,available,7.49,64.99,medium,low,7,namesilo,,,27/09/2026 03:27
 8cbdf1d9-8645-4d56-9c22-895ff17256db,series.dog,available,5.98,86.98,high,low,6,namecheap,,,19/09/2026 17:55
 7c0adbc0-c9cc-4cd9-85d1-31fe54350e4e,modest.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 06:33
 77f4e3e7-0a7a-434f-b527-672fc322e43c,owes.dog,available,3.5,53.72,medium,low,4,dynadot,,,28/09/2026 05:04
 f673b5f0-88f3-4297-aabd-c1571c9b6160,bahai.dog,available,5.98,86.98,high,low,5,namecheap,,,08/08/2026 08:27
-48fed89e-8097-4b2c-af6b-12039fcd126a,previously.dog,available,5.99,,high,low,10,name.com,,,
+48fed89e-8097-4b2c-af6b-12039fcd126a,previously.dog,available,7.49,64.99,medium,low,10,namesilo,,,28/09/2026 12:13
 12d5ebb5-095f-492e-a60b-d9bb59b61fea,acrylic.dog,available,7.49,64.99,high,low,7,namesilo,,,17/09/2026 04:05
 49f1584d-6576-42fb-a645-e9c387395210,fibre.dog,available,5.99,,high,low,5,name.com,,,
 59e5426b-c18c-42b5-844a-ec61a409e953,illegally.dog,available,5.98,86.98,medium,low,9,namecheap,,,15/09/2026 01:44
@@ -886,116 +993,9 @@ e695686e-f324-4bf5-ae00-b91c1e7ddac4,tanzanian.dog,available,5.98,86.98,medium,l
 e2addbd7-5b69-4920-99ed-712b097312a2,wrestling.dog,available,5.99,,high,low,9,name.com,,,
 232f1070-d839-493f-b45d-f106d399bcd5,arable.dog,available,5.98,86.98,medium,low,6,namecheap,,,06/08/2026 11:14
 137b822d-a8b5-4524-b378-4e64072cbb09,hitter.dog,available,7.49,64.99,high,low,6,namesilo,,,22/09/2026 14:18
-0716a0a2-59a4-4340-b0fe-4cc15db6919c,adequately.dog,available,5.99,,high,low,10,name.com,,,
+0716a0a2-59a4-4340-b0fe-4cc15db6919c,adequately.dog,available,7.49,64.99,medium,low,10,namesilo,,,28/09/2026 11:47
 eb089aee-ee1a-48fe-9b96-ef45365c1a7c,coplanar.dog,available,5.98,86.98,medium,low,8,namecheap,,,13/08/2026 00:32
 94ae8baa-57f6-4184-807d-8a3e10a6abf4,applied.dog,available,5.98,86.98,high,low,7,namecheap,,,06/08/2026 07:11
 169adb93-8038-40c2-a6a0-87cb6e6ca162,effete.dog,available,5.98,86.98,low,low,6,namecheap,,,13/08/2026 20:52
 36996f12-acd5-4ea2-9606-48f38a365f77,walden.dog,available,7.49,64.99,medium,low,6,namesilo,,,27/09/2026 08:12
 59520c11-1e7f-47ff-819d-5a02849ba941,eventide.dog,available,5.98,86.98,high,low,8,namecheap,,,17/08/2026 14:48
-1cc6a567-b91d-44eb-942c-58db42527639,fluent.dog,available,5.98,86.98,high,low,6,namecheap,,,16/08/2026 06:17
-2b37f0a3-86bf-4f39-b2b1-77b819661d74,reference.dog,available,5.99,,high,low,9,name.com,,,
-4a821704-d9f3-4c93-87f5-797f47ca6a29,adze.dog,available,5.98,86.98,medium,low,4,namecheap,,,17/09/2026 12:02
-015a1bbe-e783-4d28-a724-742433ab2275,feathered.dog,available,5.98,86.98,high,low,9,namecheap,,,18/08/2026 00:19
-3161627a-c2b7-4130-9bf5-2c80be542c45,pubescent.dog,available,5.98,86.98,medium,low,9,namecheap,,,09/09/2026 05:15
-17f06cbf-432e-4ea8-8fc4-1f7252c8b8e2,lxvi.dog,available,5.98,86.98,medium,low,4,namecheap,,,
-7a99cef8-afff-4e08-931b-f5eb3b298156,codes.dog,available,5.99,,high,low,5,name.com,,,
-6a2a3fdd-c9b1-4729-8674-b855bbb1adbb,baste.dog,available,7.49,64.99,high,low,5,namesilo,,,22/09/2026 12:43
-6aa0569c-9d0c-4eb9-962a-a36a7c401175,critical.dog,available,7.49,64.99,high,low,8,namesilo,,,24/09/2026 02:02
-bdac0759-66ea-4024-878c-08dd66d62aea,colon.dog,available,7.49,64.99,high,low,5,namesilo,,,20/09/2026 15:16
-4286ebdc-97d1-4737-96e2-4191ca8b6329,quiescent.dog,available,5.98,86.98,medium,low,9,namecheap,,,09/09/2026 08:47
-fd0f167f-608d-4652-9c81-193e529aa067,expectant.dog,available,5.98,86.98,high,low,9,namecheap,,,22/09/2026 06:48
-0378d5e3-902b-4b46-924e-06877f7db496,diluted.dog,available,5.98,86.98,medium,low,7,namecheap,,,14/08/2026 07:45
-2b320e9d-bfef-4713-810e-5c888f18e1e5,linnaean.dog,available,5.98,86.98,medium,low,8,namecheap,,,23/08/2026 16:38
-9ffbae79-4b41-4fcf-bddf-5f0f94e0af35,zombi.dog,available,7.49,64.99,medium,low,5,namesilo,,,21/09/2026 07:04
-602f6db5-0adc-4db1-8a2d-5787040f57bd,elected.dog,available,5.98,86.98,high,low,7,namecheap,,,16/08/2026 02:35
-eb74a431-3cdf-48bc-b73c-b097f57e3651,fourier.dog,available,7.49,64.99,medium,low,7,namesilo,,,22/09/2026 07:13
-adcd8640-9c36-4188-9369-6306fc06e563,moonshine.dog,available,5.98,86.98,high,low,9,namecheap,,,10/08/2026 19:35
-044deec2-6376-4f79-b0aa-d1a979b4e338,sordid.dog,available,5.98,86.98,medium,low,6,namecheap,,,10/09/2026 14:29
-aa3e3830-e325-44db-9d50-6a65068b417e,ignorant.dog,available,5.98,86.98,medium,low,8,namecheap,,,21/08/2026 18:27
-84d28c2e-ab5e-4525-8dc2-14551d8e89f7,bequest.dog,available,5.98,86.98,high,low,7,namecheap,,,23/09/2026 09:04
-c4700a4b-dca2-4c58-802b-f8d74451a857,thinly.dog,available,5.98,86.98,medium,low,6,namecheap,,,11/09/2026 13:26
-3f09f7cc-1435-401b-872f-b63e428db253,amino.dog,available,5.98,86.98,high,low,5,namecheap,,,
-bdeca437-70a4-416f-8d78-49094d54027b,antioxidant.dog,available,5.99,,high,low,11,name.com,,,
-93ffbbad-b0f0-44ed-8a6b-6489ec9cd1df,argonne.dog,available,7.49,64.99,medium,low,7,namesilo,,,20/09/2026 04:36
-7613400d-84d1-4456-8660-f19e0bf3ce05,herbaceous.dog,available,5.98,86.98,medium,low,10,namecheap,,,21/08/2026 06:56
-49947d64-e31b-468a-9bdf-b2f6462b9b0f,wilcox.dog,available,7.49,64.99,medium,low,6,namesilo,,,27/09/2026 01:45
-61757b01-65ce-4844-a176-eaa92a6103db,anarchic.dog,available,5.98,86.98,medium,low,8,namecheap,,,
-185fb0f9-a4e6-4fc9-a389-4da87f9b1708,lance.dog,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 05:44
-e3253cdc-0365-442e-a3ef-3ef5fffe3354,cells.dog,available,5.99,,high,low,5,name.com,,,
-770bf5de-c282-4eec-8008-2cfbaf71da96,glossy.dog,available,5.98,86.98,high,low,6,namecheap,,,11/08/2026 14:10
-db798617-6f74-4893-984e-0f9504cc466a,cinque.dog,available,5.98,86.98,medium,low,6,namecheap,,,
-3b11c9e6-1a7e-4c90-b8fc-176f92a3ff1e,curling.dog,available,5.98,86.98,high,low,7,namecheap,,,13/08/2026 11:21
-db446479-cb23-4d19-b4be-16188ac84a09,beefcake.dog,available,5.98,86.98,high,low,8,namecheap,,,23/09/2026 01:06
-ce8b251a-80b4-4664-b38d-819723308e32,ceremony.dog,available,5.98,86.98,high,low,8,namecheap,,,08/09/2026 07:31
-3a32028c-3d38-4e56-a6ea-3d1521f074d6,proficiency.dog,available,5.99,,high,low,11,name.com,,,
-b05276af-4daa-4697-bf95-5bac5dd906ff,aquinas.dog,available,7.49,64.99,medium,low,7,namesilo,,,19/09/2026 23:16
-432cd455-2bd5-43a0-8426-5ba2847f3386,saccade.dog,available,5.98,86.98,medium,low,7,namecheap,,,22/08/2026 12:47
-92cdbab3-4a12-4421-9524-3cb5d4258df7,spartan.dog,available,7.49,64.99,high,low,7,namesilo,,,19/09/2026 16:49
-9bcc2f45-c2e0-48fa-a60f-fc9eb7bcf4b3,aleutian.dog,available,5.98,86.98,medium,low,8,namecheap,,,
-0d35ae60-a243-451a-b9bc-29696bf0e9c4,aluminate.dog,available,7.49,64.99,medium,low,9,namesilo,,,18/09/2026 15:13
-4a114a2f-3a3a-4870-a61e-56b510a23eb0,passing.dog,available,7.49,64.99,high,low,7,namesilo,,,24/09/2026 14:24
-36d104de-bb63-4dfa-9cf1-249b8d71eace,creativity.dog,available,5.98,86.98,high,low,10,namecheap,,,24/09/2026 19:19
-170c32a0-afd1-4e05-812d-655fa3712101,nascent.dog,available,5.98,86.98,medium,low,7,namecheap,,,03/09/2026 13:35
-859a3768-cea3-49fc-85d1-912894ab678f,brainwash.dog,available,5.99,,high,low,9,name.com,,,
-f692f1c4-d2e7-431e-8977-fa399cd53e40,keenly.dog,available,5.98,86.98,high,low,6,namecheap,,,15/09/2026 10:20
-f9deff56-933c-4a71-8e26-47daaa5ccec2,habilitate.dog,available,5.98,86.98,high,low,10,namecheap,,,19/09/2026 20:06
-95c16006-5991-4422-9f5f-bfe731221b7d,maunder.dog,available,7.49,64.99,medium,low,7,namesilo,,,23/09/2026 23:31
-1d587721-8a47-4df0-a192-0ee87c627449,acoustics.dog,available,5.98,86.98,high,low,9,namecheap,,,17/09/2026 02:36
-b0df4e06-5013-43db-a5d9-92841ef7df95,barleycorn.dog,available,7.49,64.99,medium,low,10,namesilo,,,22/09/2026 06:31
-b8fb98e9-a8a4-425b-8aee-6bd0ebbb1a9d,hire.dog,available,7.49,64.99,high,low,4,namesilo,,,24/09/2026 13:49
-1d3c2204-d103-42a3-a542-5b92993f6daa,illuminate.dog,available,5.98,86.98,high,low,10,namecheap,,,23/08/2026 02:47
-852bf2f2-66e3-4c38-a90e-cc90a6721cef,evaluation.dog,available,50.2,50.2,high,low,10,cloudflare,,,28/09/2026 02:31
-a023ace4-78e8-4940-a162-fd028552c728,centralised.dog,available,5.99,,high,low,11,name.com,,,
-ec81b21d-f007-4b27-a332-bac2860bb996,bastille.dog,available,7.49,64.99,high,low,8,namesilo,,,22/09/2026 12:48
-e63206ff-9ca5-40dd-897f-4e6ea4458667,begin.dog,available,5.99,83.99,high,low,5,name.com,,,23/09/2026 09:05
-3ceb66f8-e4f0-47c9-9833-e595474b4491,aperitif.dog,available,7.49,64.99,high,low,8,namesilo,,,19/09/2026 16:32
-6bddea04-bcbe-451b-9447-f931065bdb0d,imitator.dog,available,7.49,64.99,medium,low,8,namesilo,,,19/09/2026 16:27
-70cee5b9-96f3-43c6-a9b8-3c12677d847a,hawaiian.dog,available,5.98,86.98,high,low,8,namecheap,,,21/08/2026 01:36
-0530d60e-f78d-4792-8173-f020d426b88c,closure.dog,available,7.49,64.99,high,low,7,namesilo,,,24/09/2026 15:56
-bf015790-5653-42d2-99d2-c61c99440e60,honestly.dog,available,5.98,86.98,high,low,8,namecheap,,,
-903cfd3e-6e53-4045-b436-bf6bde05b60b,chime.dog,available,5.99,,high,low,5,name.com,,,
-ed8a26b2-b539-4df6-8af2-42b4fdf1cff1,attentive.dog,available,7.49,64.99,high,low,9,namesilo,,,22/09/2026 11:22
-17fb68ea-e64e-47c7-b901-23e2750d36f8,emeritus.dog,available,5.98,86.98,high,low,8,namecheap,,,16/08/2026 15:05
-0cf8d904-9c1a-4c2c-af02-60b5ae3a0b66,ducks.dog,available,7.49,64.99,medium,low,5,namesilo,,,27/09/2026 23:17
-d9a05201-81b2-446b-a2c4-b2db2eb63275,murmur.dog,available,5.98,86.98,high,low,6,namecheap,,,03/09/2026 11:16
-cbcb867c-68a5-4629-822f-9be40bbec233,recovering.dog,available,5.98,86.98,high,low,10,namecheap,,,23/09/2026 22:44
-9c2476fe-a634-4081-8cea-9fb9aa20fc39,apocrypha.dog,available,5.98,86.98,medium,low,9,namecheap,,,19/09/2026 18:13
-85ab5d5b-d060-499e-bf79-3eb52f6546c9,lucidly.dog,available,5.98,86.98,medium,low,7,namecheap,,,15/09/2026 12:12
-6f499d7f-1f67-4960-8a41-73f272e202ba,sexist.dog,available,5.98,86.98,medium,low,6,namecheap,,,10/09/2026 05:14
-c3e26411-7b0c-4e57-9cab-ba60496fb9dc,catching.dog,available,5.98,86.98,high,low,8,namecheap,,,11/08/2026 21:16
-71a2a3fc-20d3-4cf8-b386-c25db2498c43,strictly.dog,available,5.98,86.98,medium,low,8,namecheap,,,15/09/2026 22:03
-c78b3e2f-4cc7-44b7-ac6b-5939a122b48f,lachrymal.dog,available,5.98,86.98,medium,low,9,namecheap,,,22/08/2026 17:59
-00f73127-9c49-42f6-b677-e1e9911fa6b3,dagger.dog,available,5.98,86.98,high,low,6,namecheap,,,24/09/2026 20:52
-0b73066f-8024-4c11-9918-921c0524b731,participant.dog,available,5.99,,high,low,11,name.com,,,
-330138fc-5690-45ba-b2a3-9ea0eedf8ba4,baptism.dog,available,7.49,64.99,high,low,7,namesilo,,,22/09/2026 03:27
-b8461573-f145-4e24-96ce-acbb5f9bf674,touchy.dog,available,5.98,86.98,medium,low,6,namecheap,,,21/08/2026 14:42
-7467e169-2645-45bb-8c83-4b6002dc4293,treed.dog,available,5.98,86.98,medium,low,5,namecheap,,,07/08/2026 11:13
-cd562add-7fb5-46b7-91ad-f9161f8f72f1,baylor.dog,available,7.49,64.99,medium,low,6,namesilo,,,27/09/2026 01:57
-461c3662-a9d1-45a9-b7d0-535a0bf63c22,spick.dog,available,5.98,86.98,medium,low,5,namecheap,,,21/08/2026 20:46
-04e3dd4e-524b-4d45-b821-8a9c4b8ff34d,sophia.dog,available,7.49,64.99,high,low,6,namesilo,,,28/09/2026 07:06
-5afb31c2-1fcb-4505-a97d-8d4c92042461,pencil.dog,available,5.99,,high,low,6,name.com,,,
-8091d722-1309-41a9-80a9-86cafa513c41,calculous.dog,available,5.98,86.98,medium,low,9,namecheap,,,11/08/2026 14:05
-28703ad1-31d2-4022-a70c-2898f105ce55,comfortably.dog,available,5.99,,high,low,11,name.com,,,
-ae47f6a9-43c4-4d4d-83ba-9621d2a506d1,pops.dog,available,5.98,86.98,high,low,4,namecheap,,,18/09/2026 21:55
-dee162d2-e92f-479a-8fef-4b0e009cfb20,adad.dog,available,7.49,64.99,medium,low,4,namesilo,,,17/09/2026 06:02
-556b6d65-7fbb-4d1f-a302-6483fe77505c,wayne.dog,available,7.49,64.99,high,low,5,namesilo,,,19/09/2026 13:47
-351e65d9-ff58-4fa2-8e96-0653d10ccae0,mrna.dog,available,7.49,64.99,high,low,4,namesilo,,,25/09/2026 23:11
-09a6735f-164d-4069-9f72-d64e78a75bb3,shoots.dog,available,5.38,51.95,high,low,6,spaceship,,,28/09/2026 03:32
-56b381fd-e99b-40e3-a93f-bb9bb4b73f42,upset.dog,available,5.98,86.98,medium,low,5,namecheap,,,24/09/2026 11:19
-a061f394-4e0e-4c7b-84f4-6a852b2ad89e,beshrew.dog,available,5.99,83.99,medium,low,7,name.com,,,13/08/2026 16:19
-9610b062-550b-4853-9ac0-cfa05838a4fa,airspeed.dog,available,5.98,86.98,high,low,8,namecheap,,,17/09/2026 23:22
-45472410-983c-467c-abf0-5c60a2d7bbed,gimpy.dog,available,5.98,86.98,medium,low,5,namecheap,,,13/08/2026 07:05
-620e9ee1-ddd7-4faf-9430-5151662db734,mechanics.dog,available,7.49,64.99,high,low,9,namesilo,,,28/09/2026 02:33
-8c937d5a-7111-4da6-a5d0-63bfb4391be4,debut.dog,available,5.98,86.98,high,low,5,namecheap,,,24/09/2026 21:09
-2103d6e1-a195-46ff-b246-e73912e57185,statewide.dog,available,5.98,86.98,high,low,9,namecheap,,,10/09/2026 19:10
-04f88f33-c72e-443d-bb6f-01324394ea11,grammar.dog,available,5.99,,high,low,7,name.com,,,
-ede247b9-2dd7-4e34-a224-5251ed2aec7e,unowned.dog,available,5.98,86.98,medium,low,7,namecheap,,,04/09/2026 22:16
-2a4740bc-7ef4-49d3-9f7a-1cf43d26a1d7,suspicions.dog,available,7.49,64.99,low,low,10,namesilo,,,18/09/2026 08:04
-46cea61f-11b4-4c6a-acb3-f9fa8f1be85d,pitiful.dog,available,5.98,86.98,medium,low,7,namecheap,,,14/08/2026 02:27
-96bea60d-5591-4bcb-96f8-11190a28ad55,pharmacy.dog,premium,500,,high,low,8,name.com,,,
-650d34c0-9ab8-46db-8bf1-a4e7c9e5338e,leiden.dog,available,7.49,64.99,high,low,6,namesilo,,,25/09/2026 23:25
-3922da5c-b511-47d5-bf0e-78a4709e26d8,comforter.dog,available,7.49,64.99,medium,low,9,namesilo,,,18/09/2026 10:03
-8bf2c174-a1b3-489c-8a8e-d79a3a0a189a,distaste.dog,available,7.49,64.99,medium,low,8,namesilo,,,19/09/2026 14:55
-0e4b5318-231a-48b2-94bf-a36b5b1e029d,enmity.dog,available,5.98,86.98,medium,low,6,namecheap,,,19/09/2026 12:26
-18b7a9ef-bed5-46eb-97fd-719f25ffd668,tricksy.dog,available,5.98,86.98,medium,low,7,namecheap,,,13/08/2026 04:36
-b8d455c3-b34f-4b71-bb6b-d297569cd318,armeria.dog,available,5.98,86.98,medium,low,7,namecheap,,,20/09/2026 06:43
