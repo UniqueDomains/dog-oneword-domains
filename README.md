@@ -1,10 +1,10 @@
-# Available .DOG One-Word Domains (29,702)
+# Available .DOG One-Word Domains (31,873)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C702%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C873%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dog one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,702 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,873 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,702 domains · **Median ask:** $10.84 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 31,873 domains · **Median ask:** $11.00 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/dog`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| aap.dog        | available | $5.98     | $86.98        | high           | low    | 3      | namecheap         |
-| mya.dog        | resell    | —         | —             | high           | low    | 3      | —                 |
-| life.dog       | premium   | $520      | $520          | high           | medium | 4      | namecheap         |
-| ana.dog        | available | $50.20    | $50.20        | high           | low    | 3      | cloudflare        |
-| ball.dog       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| miss.dog       | premium   | $26       | $26           | high           | low    | 4      | namecheap         |
-| ann.dog        | available | $5.38     | $51.95        | high           | low    | 3      | spaceship         |
-| anima.dog      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
-| race.dog       | premium   | $500      | —             | high           | low    | 4      | name.com          |
-| ata.dog        | available | $50.20    | $50.20        | medium         | low    | 3      | cloudflare        |
-| earth.dog      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC  |
-| marketing.dog  | premium   | $520      | $520          | high           | medium | 9      | namecheap         |
-| aum.dog        | available | $7.49     | $64.99        | high           | low    | 3      | namesilo          |
-| primo.dog      | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.   |
-| california.dog | premium   | $260      | $260          | high           | medium | 10     | namecheap         |
-| bcs.dog        | available | $7.49     | $64.99        | high           | low    | 3      | namesilo          |
-| dollar.dog     | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 48 |
-| ctv.dog        | available | $5.38     | $51.95        | high           | low    | 3      | spaceship         |
-| sniper.dog     | resell    | —         | —             | medium         | low    | 6      | —                 |
-| cui.dog        | available | $5.38     | $51.95        | high           | low    | 3      | spaceship         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aap.dog        | available | $5.98     | $86.98        | high           | low    | 3      | namecheap                                                 |
+| aya.dog        | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| miss.dog       | premium   | $26       | $26           | high           | low    | 4      | namecheap                                                 |
+| ana.dog        | available | $50.20    | $50.20        | high           | low    | 3      | cloudflare                                                |
+| mya.dog        | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| race.dog       | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
+| ann.dog        | available | $5.38     | $51.95        | high           | low    | 3      | spaceship                                                 |
+| anima.dog      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| marketing.dog  | premium   | $520      | $520          | high           | medium | 9      | namecheap                                                 |
+| ata.dog        | available | $50.20    | $50.20        | medium         | low    | 3      | cloudflare                                                |
+| earth.dog      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                          |
+| california.dog | premium   | $260      | $260          | high           | medium | 10     | namecheap                                                 |
+| aum.dog        | available | $7.49     | $64.99        | high           | low    | 3      | namesilo                                                  |
+| primo.dog      | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                           |
+| bcs.dog        | available | $7.49     | $64.99        | high           | low    | 3      | namesilo                                                  |
+| dollar.dog     | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 48                                         |
+| bly.dog        | available | $50.20    | $50.20        | high           | low    | 3      | cloudflare                                                |
+| sniper.dog     | resell    | —         | —             | medium         | low    | 6      | —                                                         |
+| ctv.dog        | available | $5.38     | $51.95        | high           | low    | 3      | spaceship                                                 |
+| digital.dog    | resell    | —         | —             | high           | medium | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,702 live domains                        |
+| 1,000-row public sample | 31,873 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOG One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
